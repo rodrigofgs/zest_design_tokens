@@ -2,39 +2,39 @@
   "color": {
     "semantic": {
       "brand": {
-        "value": "{Global.EP-Blueberry.EP-Blueberry-600}",
+        "value": "{Global.EP-Blueberry-600}",
         "type": "color"
       },
       "error": {
-        "value": "{Global.Cherry.Cherry-600}",
+        "value": "{Global.Cherry-600}",
         "type": "color"
       },
       "error-subtle": {
-        "value": "{Global.Cherry.Cherry-100}",
+        "value": "{Global.Cherry-100}",
         "type": "color"
       },
       "success": {
-        "value": "{Global.Mint.Mint-600}",
+        "value": "{Global.Mint-600}",
         "type": "color"
       },
       "success-subtle": {
-        "value": "{Global.Mint.Mint-100}",
+        "value": "{Global.Mint-100}",
         "type": "color"
       },
       "warning": {
-        "value": "{Global.Orange.Orange-700}",
+        "value": "{Global.Orange-700}",
         "type": "color"
       },
       "warning-subtle": {
-        "value": "{Global.Orange.Orange-100}",
+        "value": "{Global.Orange-100}",
         "type": "color"
       },
       "info": {
-        "value": "{Global.Blue.Blue-600}",
+        "value": "{Global.Blue-600}",
         "type": "color"
       },
       "info-subtle": {
-        "value": "{Global.Blue.Blue-100}",
+        "value": "{Global.Blue-100}",
         "type": "color"
       }
     },
@@ -45,11 +45,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Global.EP-Blueberry.EP-Blueberry-700}",
+          "value": "{Global.EP-Blueberry-700}",
           "type": "color"
         },
         "pressed": {
-          "value": "{Global.EP-Blueberry.EP-Blueberry-800}",
+          "value": "{Global.EP-Blueberry-800}",
           "type": "color"
         },
         "disabled": {
@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Global.HF-Lime.HF-Lime-200}",
+          "value": "{Global.HF-Lime-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{Global.HF-Lime.HF-Lime-300}",
+          "value": "{Global.HF-Lime-300}",
           "type": "color"
         },
         "disabled": {
@@ -82,15 +82,15 @@
     },
     "text": {
       "default": {
-        "value": "{Global.Gray.Gray-800}",
+        "value": "{Global.Gray-800}",
         "type": "color"
       },
       "subtle": {
-        "value": "{Global.Gray.Gray-700}",
+        "value": "{Global.Gray-700}",
         "type": "color"
       },
       "disabled": {
-        "value": "{Global.Gray.Gray-400}",
+        "value": "{Global.Gray-400}",
         "type": "color"
       },
       "brand": {
@@ -105,24 +105,24 @@
     "border": {
       "default": {
         "hover": {
-          "value": "{Global.Gray.Gray-700}",
+          "value": "{Global.Gray-700}",
           "type": "color"
         },
         "enabled": {
-          "value": "{Global.Gray.Gray-700}",
+          "value": "{Global.Gray-700}",
           "type": "color"
         },
         "active": {
-          "value": "{Global.Gray.Gray-800}",
+          "value": "{Global.Gray-800}",
           "type": "color"
         },
         "disabled": {
-          "value": "{Global.Gray.Gray-400}",
+          "value": "{Global.Gray-400}",
           "type": "color"
         }
       },
       "subtle": {
-        "value": "{Global.Gray.Gray-600}",
+        "value": "{Global.Gray-600}",
         "type": "color"
       },
       "brand": {
@@ -143,11 +143,11 @@
     "icon": {
       "default": {
         "disabled": {
-          "value": "{Global.Gray.Gray-400}",
+          "value": "{Global.Gray-400}",
           "type": "color"
         },
         "enabled": {
-          "value": "{Global.Gray.Gray-800}",
+          "value": "{Global.Gray-800}",
           "type": "color"
         }
       },
