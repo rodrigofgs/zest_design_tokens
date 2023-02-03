@@ -1,0 +1,24 @@
+{
+  "color": {
+    "spinner": {
+      "border": {
+        "default": {
+          "value": "{color.border.brand}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{color.border.inverse}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "border": {
+    "button": {
+      "main": {
+        "value": "{border.default}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
