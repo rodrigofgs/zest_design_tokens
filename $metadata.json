@@ -1,12 +1,12 @@
 {
   "tokenSetOrder": [
     "global",
+    "brand/HF/alias",
+    "brand/CP/alias",
+    "brand/ep/alias",
     "components/button",
     "components/controls",
     "components/input",
-    "components/spinner",
-    "brand/HF/alias",
-    "brand/CP/alias",
-    "brand/ep/alias"
+    "components/spinner"
   ]
 }
