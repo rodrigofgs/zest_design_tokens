@@ -1,6 +1,6 @@
 {
-  "global/global": {
-    "Global": {
+  "global": {
+    "color": {
       "Black": {
         "value": "#000000",
         "type": "color"
@@ -4065,7 +4065,7 @@
         "components/controls": "enabled",
         "components/input": "enabled",
         "components/spinner": "enabled",
-        "global/global": "source"
+        "global": "source"
       },
       "$figmaStyleReferences": {
         "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -4150,7 +4150,7 @@
         "components/controls": "enabled",
         "components/input": "enabled",
         "components/spinner": "enabled",
-        "global/global": "source"
+        "global": "source"
       },
       "$figmaStyleReferences": {}
     },
@@ -4163,14 +4163,14 @@
         "components/controls": "enabled",
         "components/input": "enabled",
         "components/spinner": "enabled",
-        "global/global": "source"
+        "global": "source"
       },
       "$figmaStyleReferences": {}
     }
   ],
   "$metadata": {
     "tokenSetOrder": [
-      "global/global",
+      "global",
       "brand/HF/alias",
       "brand/CP/alias",
       "brand/ep/alias",
