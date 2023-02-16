@@ -3,12 +3,12 @@
     "id": "c64ce2050a6f2cdf3e2765cd6d293cea196a34a3",
     "name": "HF",
     "selectedTokenSets": {
-      "brand/HF/alias": "source",
       "components/button": "enabled",
       "components/controls": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "global": "source"
+      "global": "source",
+      "brand/hellofresh/alias": "source"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -88,12 +88,12 @@
     "id": "8b27d53be957cbf949a192defaa8d898f77e5f36",
     "name": "CP",
     "selectedTokenSets": {
-      "brand/CP/alias": "source",
       "components/button": "enabled",
       "components/controls": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "global": "source"
+      "global": "source",
+      "brand/chefsplate/alias": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -101,12 +101,12 @@
     "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
     "name": "EP",
     "selectedTokenSets": {
-      "brand/ep/alias": "source",
       "components/button": "enabled",
       "components/controls": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "global": "source"
+      "global": "source",
+      "brand/everyplate/alias": "source"
     },
     "$figmaStyleReferences": {}
   }

@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "global",
-    "brand/HF/alias",
-    "brand/CP/alias",
-    "brand/ep/alias",
+    "brand/hellofresh/alias",
+    "brand/chefsplate/alias",
+    "brand/everyplate/alias",
     "components/button",
     "components/controls",
     "components/input",
