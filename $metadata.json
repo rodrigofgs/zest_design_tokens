@@ -7,8 +7,6 @@
     "components/button",
     "components/controls",
     "components/input",
-    "components/spinner",
-    "data/tokens",
-    "all-tokens"
+    "components/spinner"
   ]
 }
