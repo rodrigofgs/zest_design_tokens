@@ -8,7 +8,7 @@
       "components/controls": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "global/global": "source"
+      "global": "source"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -85,19 +85,6 @@
     }
   },
   {
-    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
-    "name": "EP",
-    "selectedTokenSets": {
-      "brand/ep/alias": "source",
-      "components/button": "enabled",
-      "components/controls": "enabled",
-      "components/input": "enabled",
-      "components/spinner": "enabled",
-      "global/global": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "8b27d53be957cbf949a192defaa8d898f77e5f36",
     "name": "CP",
     "selectedTokenSets": {
@@ -106,7 +93,20 @@
       "components/controls": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "global/global": "source"
+      "global": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
+    "name": "EP",
+    "selectedTokenSets": {
+      "brand/ep/alias": "source",
+      "components/button": "enabled",
+      "components/controls": "enabled",
+      "components/input": "enabled",
+      "components/spinner": "enabled",
+      "global": "source"
     },
     "$figmaStyleReferences": {}
   }

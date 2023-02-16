@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "global/global",
+    "global",
     "brand/HF/alias",
     "brand/CP/alias",
     "brand/ep/alias",
@@ -8,6 +8,7 @@
     "components/controls",
     "components/input",
     "components/spinner",
-    "data/tokens"
+    "data/tokens",
+    "all-tokens"
   ]
 }

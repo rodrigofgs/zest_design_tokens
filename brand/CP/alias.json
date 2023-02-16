@@ -2,39 +2,39 @@
   "color": {
     "semantic": {
       "brand": {
-        "value": "{Global.CP-Red-600}",
+        "value": "{color.CP-Red-600}",
         "type": "color"
       },
       "error": {
-        "value": "{Global.Cherry-600}",
+        "value": "{color.Cherry-600}",
         "type": "color"
       },
       "error-subtle": {
-        "value": "{Global.Cherry-100}",
+        "value": "{color.Cherry-100}",
         "type": "color"
       },
       "success": {
-        "value": "{Global.Mint-600}",
+        "value": "{color.Mint-600}",
         "type": "color"
       },
       "success-subtle": {
-        "value": "{Global.Mint-100}",
+        "value": "{color.Mint-100}",
         "type": "color"
       },
       "warning": {
-        "value": "{Global.Orange-700}",
+        "value": "{color.Orange-700}",
         "type": "color"
       },
       "warning-subtle": {
-        "value": "{Global.Orange-100}",
+        "value": "{color.Orange-100}",
         "type": "color"
       },
       "info": {
-        "value": "{Global.Blue-600}",
+        "value": "{color.Blue-600}",
         "type": "color"
       },
       "info-subtle": {
-        "value": "{Global.Blue-100}",
+        "value": "{color.Blue-100}",
         "type": "color"
       }
     },
@@ -45,11 +45,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Global.CP-Red-700}",
+          "value": "{color.CP-Red-700}",
           "type": "color"
         },
         "pressed": {
-          "value": "{Global.CP-Red-800}",
+          "value": "{color.CP-Red-800}",
           "type": "color"
         },
         "disabled": {
@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Global.HF-Lime-200}",
+          "value": "{color.HF-Lime-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{Global.HF-Lime-300}",
+          "value": "{color.HF-Lime-300}",
           "type": "color"
         },
         "disabled": {
@@ -77,20 +77,20 @@
       }
     },
     "transparent": {
-      "value": "rgba({Global.White},0)",
+      "value": "rgba({color.White},0)",
       "type": "color"
     },
     "text": {
       "default": {
-        "value": "{Global.Gray-800}",
+        "value": "{color.Gray-800}",
         "type": "color"
       },
       "subtle": {
-        "value": "{Global.Gray-700}",
+        "value": "{color.Gray-700}",
         "type": "color"
       },
       "disabled": {
-        "value": "{Global.Gray-400}",
+        "value": "{color.Gray-400}",
         "type": "color"
       },
       "brand": {
@@ -98,35 +98,35 @@
         "type": "color"
       },
       "inverse": {
-        "value": "{Global.White}",
+        "value": "{color.White}",
         "type": "color"
       }
     },
     "border": {
       "default": {
         "hover": {
-          "value": "{Global.Gray-700}",
+          "value": "{color.Gray-700}",
           "type": "color"
         },
         "enabled": {
-          "value": "{Global.Gray-700}",
+          "value": "{color.Gray-700}",
           "type": "color"
         },
         "active": {
-          "value": "{Global.Gray-800}",
+          "value": "{color.Gray-800}",
           "type": "color"
         },
         "disabled": {
-          "value": "{Global.Gray-400}",
+          "value": "{color.Gray-400}",
           "type": "color"
         },
         "default": {
-          "value": "{Global.Gray-700}",
+          "value": "{color.Gray-700}",
           "type": "color"
         }
       },
       "subtle": {
-        "value": "{Global.Gray-600}",
+        "value": "{color.Gray-600}",
         "type": "color"
       },
       "brand": {
@@ -134,29 +134,29 @@
         "type": "color"
       },
       "inverse": {
-        "value": "{Global.White}",
+        "value": "{color.White}",
         "type": "color"
       }
     },
     "background": {
       "default": {
-        "value": "{Global.White}",
+        "value": "{color.White}",
         "type": "color"
       }
     },
     "icon": {
       "default": {
         "disabled": {
-          "value": "{Global.Gray-400}",
+          "value": "{color.Gray-400}",
           "type": "color"
         },
         "enabled": {
-          "value": "{Global.Gray-800}",
+          "value": "{color.Gray-800}",
           "type": "color"
         }
       },
       "inverse": {
-        "value": "{Global.White}",
+        "value": "{color.White}",
         "type": "color"
       },
       "brand": {
