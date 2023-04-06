@@ -2,7 +2,7 @@
   "color": {
     "semantic": {
       "brand": {
-        "value": "{color.HF-Lime-600}",
+        "value": "{color.HelloFresh-Lime-600}",
         "type": "color"
       },
       "error": {
@@ -45,11 +45,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.HF-Lime-700}",
+          "value": "{color.HelloFresh-Lime-700}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.HF-Lime-800}",
+          "value": "{color.HelloFresh-Lime-800}",
           "type": "color"
         },
         "disabled": {
@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.HF-Lime-200}",
+          "value": "{color.HelloFresh-Lime-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.HF-Lime-300}",
+          "value": "{color.HelloFresh-Lime-300}",
           "type": "color"
         },
         "disabled": {

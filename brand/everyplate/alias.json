@@ -2,7 +2,7 @@
   "color": {
     "semantic": {
       "brand": {
-        "value": "{color.EP-Blueberry-600}",
+        "value": "{color.EveryPlate-Blueberry-600}",
         "type": "color"
       },
       "error": {
@@ -45,11 +45,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.EP-Blueberry-700}",
+          "value": "{color.EveryPlate-Blueberry-700}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.EP-Blueberry-800}",
+          "value": "{color.EveryPlate-Blueberry-800}",
           "type": "color"
         },
         "disabled": {
@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.HF-Lime-200}",
+          "value": "{color.HelloFresh-Lime-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.HF-Lime-300}",
+          "value": "{color.HelloFresh-Lime-300}",
           "type": "color"
         },
         "disabled": {

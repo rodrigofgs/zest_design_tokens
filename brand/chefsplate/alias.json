@@ -2,7 +2,7 @@
   "color": {
     "semantic": {
       "brand": {
-        "value": "{color.CP-Red-600}",
+        "value": "{color.ChefsPlate-Red-600}",
         "type": "color"
       },
       "error": {
@@ -45,11 +45,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.CP-Red-700}",
+          "value": "{color.ChefsPlate-Red-700}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.CP-Red-800}",
+          "value": "{color.ChefsPlate-Red-800}",
           "type": "color"
         },
         "disabled": {
@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.HF-Lime-200}",
+          "value": "{color.HelloFresh-Lime-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.HF-Lime-300}",
+          "value": "{color.HelloFresh-Lime-300}",
           "type": "color"
         },
         "disabled": {

@@ -5,7 +5,8 @@
     "brand/chefsplate/alias",
     "brand/everyplate/alias",
     "components/button",
-    "components/controls",
+    "components/radio_button",
+    "components/checkbox",
     "components/input",
     "components/spinner"
   ]
