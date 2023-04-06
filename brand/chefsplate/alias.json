@@ -173,7 +173,7 @@
   },
   "border": {
     "default": {
-      "value": "{border.xl}",
+      "value": "{border.border-radius-xl}",
       "type": "borderRadius"
     }
   }

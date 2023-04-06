@@ -169,7 +169,7 @@
   },
   "border": {
     "default": {
-      "value": "{border.sm}",
+      "value": "{border.border-radius-xs}",
       "type": "borderRadius"
     }
   }
