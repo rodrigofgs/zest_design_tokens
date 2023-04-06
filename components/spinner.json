@@ -1,6 +1,6 @@
 {
-  "color": {
-    "spinner": {
+  "spinner": {
+    "color": {
       "border": {
         "default": {
           "value": "{color.border.brand}",
@@ -11,10 +11,8 @@
           "type": "color"
         }
       }
-    }
-  },
-  "border": {
-    "button": {
+    },
+    "border": {
       "main": {
         "value": "{border.default}",
         "type": "borderRadius"

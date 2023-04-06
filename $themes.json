@@ -8,7 +8,6 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/hellofresh/alias": "source",
-      "components/radio_button": "disabled",
       "components/checkbox": "enabled"
     },
     "$figmaStyleReferences": {
@@ -94,7 +93,6 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/chefsplate/alias": "source",
-      "components/radio_button": "disabled",
       "components/checkbox": "enabled"
     },
     "$figmaStyleReferences": {}
@@ -108,7 +106,6 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/everyplate/alias": "source",
-      "components/radio_button": "disabled",
       "components/checkbox": "enabled"
     },
     "$figmaStyleReferences": {}

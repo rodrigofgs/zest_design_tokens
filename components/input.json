@@ -1,6 +1,6 @@
 {
-  "color": {
-    "input": {
+  "input": {
+    "color": {
       "border": {
         "default": {
           "value": "{color.border.subtle}",
@@ -65,10 +65,8 @@
           }
         }
       }
-    }
-  },
-  "border": {
-    "button": {
+    },
+    "border": {
       "main": {
         "value": "{border.default}",
         "type": "borderRadius"

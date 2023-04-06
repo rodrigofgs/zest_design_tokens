@@ -1,6 +1,6 @@
 {
-  "color": {
-    "radio-button": {
+  "radio-button": {
+    "color": {
       "unselected": {
         "border": {
           "default": {
@@ -85,10 +85,8 @@
           }
         }
       }
-    }
-  },
-  "border": {
-    "button": {
+    },
+    "border": {
       "main": {
         "value": "{border.default}",
         "type": "borderRadius"
