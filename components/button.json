@@ -121,10 +121,8 @@
           }
         }
       }
-    }
-  },
-  "border": {
-    "button": {
+    },
+    "border": {
       "main": {
         "value": "{border.default}",
         "type": "borderRadius"
