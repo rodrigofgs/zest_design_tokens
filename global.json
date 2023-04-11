@@ -818,6 +818,20 @@
     "border-radius-pill": {
       "value": "999",
       "type": "borderRadius"
+    },
+    "outline-sm": {
+      "value": {
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "outline-md": {
+      "value": {
+        "width": "3",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "spacing-zero": {
@@ -882,7 +896,7 @@
       "y": "1",
       "blur": "3",
       "spread": "0",
-      "color": "{color.Black}20",
+      "color": "rgba($color.Black, 0.1)",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -893,7 +907,7 @@
       "y": "2",
       "blur": "4",
       "spread": "0",
-      "color": "#000000",
+      "color": "rgba($color.Black, 0.15)",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -904,7 +918,7 @@
       "y": "3",
       "blur": "8",
       "spread": "4",
-      "color": "#000000",
+      "color": "rgba($color.Black, 0.15)",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -915,8 +929,8 @@
       "y": "4",
       "blur": "16",
       "spread": "0",
-      "color": "#000000",
-      "type": "innerShadow"
+      "color": "rgba($color.Black, 0.2)",
+      "type": "dropShadow"
     },
     "type": "boxShadow"
   },
@@ -975,6 +989,36 @@
           "lineHeight": "{line-height-md-3}"
         },
         "type": "typography"
+      },
+      "body-xxl-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xxl}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-xxl-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xxl}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-xxl-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xxl}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
       }
     },
     "xl": {
@@ -1002,6 +1046,36 @@
         "value": {
           "fontFamily": "{font-family.body}",
           "fontWeight": "{body-bold}",
+          "fontSize": "{body.body-xl}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-xl-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xl}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-xxl-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xl}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-xxl-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
           "fontSize": "{body.body-xl}",
           "textDecoration": "strikethrough",
           "lineHeight": "{line-height-md-3}"
@@ -1039,6 +1113,36 @@
           "lineHeight": "{line-height-md-3}"
         },
         "type": "typography"
+      },
+      "body-l-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-l}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-l-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-l}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
+      },
+      "body-l-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-l}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-md-3}"
+        },
+        "type": "typography"
       }
     },
     "m": {
@@ -1066,6 +1170,36 @@
         "value": {
           "fontFamily": "{font-family.body}",
           "fontWeight": "{body-bold}",
+          "fontSize": "{body.body-m}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-md-2}"
+        },
+        "type": "typography"
+      },
+      "body-m-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-m}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-md-2}"
+        },
+        "type": "typography"
+      },
+      "body-m-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-m}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-md-2}"
+        },
+        "type": "typography"
+      },
+      "body-m-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
           "fontSize": "{body.body-m}",
           "textDecoration": "strikethrough",
           "lineHeight": "{line-height-md-2}"
@@ -1103,6 +1237,36 @@
           "lineHeight": "{line-height-md-1}"
         },
         "type": "typography"
+      },
+      "body-s-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-s}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-md-1}"
+        },
+        "type": "typography"
+      },
+      "body-s-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-s}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-md-1}"
+        },
+        "type": "typography"
+      },
+      "body-s-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-s}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-md-1}"
+        },
+        "type": "typography"
       }
     },
     "xs": {
@@ -1130,6 +1294,36 @@
         "value": {
           "fontFamily": "{font-family.body}",
           "fontWeight": "{body-bold}",
+          "fontSize": "{body.body-xs}",
+          "textDecoration": "strikethrough",
+          "lineHeight": "{line-height-sm-1}"
+        },
+        "type": "typography"
+      },
+      "body-xs-regular": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xs}",
+          "textDecoration": "NONE",
+          "lineHeight": "{line-height-sm-1}"
+        },
+        "type": "typography"
+      },
+      "body-xs-regular-link": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
+          "fontSize": "{body.body-xs}",
+          "textDecoration": "UNDERLINE",
+          "lineHeight": "{line-height-sm-1}"
+        },
+        "type": "typography"
+      },
+      "body-xs-regular-strikethrough": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{body-regular}",
           "fontSize": "{body.body-xs}",
           "textDecoration": "strikethrough",
           "lineHeight": "{line-height-sm-1}"
