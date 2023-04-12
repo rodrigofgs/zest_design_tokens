@@ -13,19 +13,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
-    "name": "EP",
-    "selectedTokenSets": {
-      "components/button": "enabled",
-      "components/input": "enabled",
-      "components/spinner": "enabled",
-      "global": "source",
-      "brand/everyplate/alias": "source",
-      "components/checkbox": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "c64ce2050a6f2cdf3e2765cd6d293cea196a34a3",
     "name": "HF",
     "selectedTokenSets": {
@@ -122,6 +109,20 @@
       "components/checkbox": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
+    "name": "EP",
+    "selectedTokenSets": {
+      "components/button": "enabled",
+      "components/input": "enabled",
+      "components/spinner": "enabled",
+      "global": "source",
+      "brand/everyplate/alias": "source",
+      "components/checkbox": "enabled",
+      "brand/everyplate/global": "enabled"
     },
     "$figmaStyleReferences": {}
   }

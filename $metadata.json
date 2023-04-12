@@ -10,6 +10,7 @@
     "components/radio_button",
     "components/checkbox",
     "components/input",
-    "components/spinner"
+    "components/spinner",
+    "brand/everyplate/global"
   ]
 }
