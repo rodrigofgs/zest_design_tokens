@@ -8,9 +8,7 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/chefsplate/alias": "source",
-      "components/checkbox": "enabled",
-      "brand/hellofresh/global": "disabled",
-      "brand/zest/alias": "disabled"
+      "components/checkbox": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -23,9 +21,7 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/everyplate/alias": "source",
-      "components/checkbox": "enabled",
-      "brand/hellofresh/global": "disabled",
-      "brand/zest/alias": "disabled"
+      "components/checkbox": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,8 +35,7 @@
       "global": "source",
       "brand/hellofresh/alias": "source",
       "components/checkbox": "enabled",
-      "brand/hellofresh/global": "enabled",
-      "brand/zest/alias": "disabled"
+      "brand/hellofresh/global": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",

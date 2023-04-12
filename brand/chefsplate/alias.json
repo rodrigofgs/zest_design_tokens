@@ -63,11 +63,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{color.HelloFresh-Lime-200}",
+          "value": "{color.Cherry-200}",
           "type": "color"
         },
         "pressed": {
-          "value": "{color.HelloFresh-Lime-300}",
+          "value": "{color.ChefsPlate-Red-300}",
           "type": "color"
         },
         "disabled": {
