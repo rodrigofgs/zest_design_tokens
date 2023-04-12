@@ -1,5 +1,35 @@
 [
   {
+    "id": "8b27d53be957cbf949a192defaa8d898f77e5f36",
+    "name": "CP",
+    "selectedTokenSets": {
+      "components/button": "enabled",
+      "components/input": "enabled",
+      "components/spinner": "enabled",
+      "global": "source",
+      "brand/chefsplate/alias": "source",
+      "components/checkbox": "enabled",
+      "brand/hellofresh/global": "disabled",
+      "brand/zest/alias": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
+    "name": "EP",
+    "selectedTokenSets": {
+      "components/button": "enabled",
+      "components/input": "enabled",
+      "components/spinner": "enabled",
+      "global": "source",
+      "brand/everyplate/alias": "source",
+      "components/checkbox": "enabled",
+      "brand/hellofresh/global": "disabled",
+      "brand/zest/alias": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "c64ce2050a6f2cdf3e2765cd6d293cea196a34a3",
     "name": "HF",
     "selectedTokenSets": {
@@ -8,7 +38,9 @@
       "components/spinner": "enabled",
       "global": "source",
       "brand/hellofresh/alias": "source",
-      "components/checkbox": "enabled"
+      "components/checkbox": "enabled",
+      "brand/hellofresh/global": "enabled",
+      "brand/zest/alias": "disabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -85,28 +117,16 @@
     }
   },
   {
-    "id": "8b27d53be957cbf949a192defaa8d898f77e5f36",
-    "name": "CP",
+    "id": "fb783c53420fe313c70f457d069b165d70dad51b",
+    "name": "Zest",
     "selectedTokenSets": {
+      "global": "enabled",
+      "brand/zest/alias": "source",
       "components/button": "enabled",
+      "components/radio_button": "enabled",
+      "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled",
-      "global": "source",
-      "brand/chefsplate/alias": "source",
-      "components/checkbox": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
-    "name": "EP",
-    "selectedTokenSets": {
-      "components/button": "enabled",
-      "components/input": "enabled",
-      "components/spinner": "enabled",
-      "global": "source",
-      "brand/everyplate/alias": "source",
-      "components/checkbox": "enabled"
+      "components/spinner": "enabled"
     },
     "$figmaStyleReferences": {}
   }

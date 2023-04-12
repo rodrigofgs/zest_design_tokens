@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "headline": {
+      "value": "Agrandir Digital",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "headline": {
+      "value": "Medium",
+      "type": "fontWeights"
+    }
+  }
+}
