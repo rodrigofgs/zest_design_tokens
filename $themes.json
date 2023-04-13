@@ -9,16 +9,7 @@
       "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled",
-      "brand/goodchop/alias": "disabled",
-      "brand/greenchef/global": "disabled",
-      "brand/greenchef/alias": "disabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "components/spinner": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -32,16 +23,7 @@
       "global": "source",
       "brand/everyplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/everyplate/global": "enabled",
-      "brand/goodchop/alias": "disabled",
-      "brand/greenchef/global": "disabled",
-      "brand/greenchef/alias": "disabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "brand/everyplate/global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,16 +37,7 @@
       "global": "source",
       "brand/chefsplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/chefsplate/global": "enabled",
-      "brand/goodchop/alias": "disabled",
-      "brand/greenchef/global": "disabled",
-      "brand/greenchef/alias": "disabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "brand/chefsplate/global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -79,15 +52,7 @@
       "brand/hellofresh/alias": "source",
       "components/checkbox": "enabled",
       "brand/hellofresh/global": "enabled",
-      "components/radio_button": "enabled",
-      "brand/greenchef/global": "disabled",
-      "brand/greenchef/alias": "disabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "components/radio_button": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -174,15 +139,7 @@
       "components/spinner": "enabled",
       "brand/goodchop/global": "enabled",
       "brand/goodchop/alias": "source",
-      "components/radio_button": "enabled",
-      "brand/greenchef/global": "disabled",
-      "brand/greenchef/alias": "disabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "components/radio_button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -197,13 +154,7 @@
       "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled",
-      "brand/factor/alias": "disabled",
-      "brand/factor/global": "disabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "components/spinner": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -218,11 +169,7 @@
       "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled",
-      "brand/youfoodz/alias": "disabled",
-      "brand/youfoodz/global": "disabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "components/spinner": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -237,9 +184,7 @@
       "components/input": "enabled",
       "components/spinner": "enabled",
       "brand/youfoodz/alias": "source",
-      "brand/youfoodz/global": "enabled",
-      "brand/thepetstable/alias": "disabled",
-      "brand/thepetstable/global": "disabled"
+      "brand/youfoodz/global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
