@@ -1419,7 +1419,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-xl-desktop}",
               "lineHeight": "{line-height-lg-2}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1429,7 +1429,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-xl-desktop}",
-              "lineHeight": "{line-height-lg-2}"
+              "lineHeight": "{line-height-lg-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1439,7 +1440,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-xl-desktop}",
-              "lineHeight": "{line-height-lg-2}"
+              "lineHeight": "{line-height-lg-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1452,7 +1454,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-lg-desktop}",
               "lineHeight": "{line-height-lg-1}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1462,7 +1464,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-lg-desktop}",
-              "lineHeight": "{line-height-lg-1}"
+              "lineHeight": "{line-height-lg-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1472,7 +1475,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-lg-desktop}",
-              "lineHeight": "{line-height-lg-1}"
+              "lineHeight": "{line-height-lg-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1485,7 +1489,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-md-desktop}",
               "lineHeight": "{line-height-md-3}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1495,7 +1499,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-md-desktop}",
-              "lineHeight": "{line-height-md-3}"
+              "lineHeight": "{line-height-md-3}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1505,7 +1510,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-md-desktop}",
-              "lineHeight": "{line-height-md-3}"
+              "lineHeight": "{line-height-md-3}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1518,7 +1524,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-sm-desktop}",
               "lineHeight": "{line-height-md-2}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1528,7 +1534,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-sm-desktop}",
-              "lineHeight": "{line-height-md-2}"
+              "lineHeight": "{line-height-md-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1538,7 +1545,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-sm-desktop}",
-              "lineHeight": "{line-height-md-2}"
+              "lineHeight": "{line-height-md-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1553,7 +1561,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-xl-mobile-tablet}",
               "lineHeight": "{line-height-lg-1}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1563,7 +1571,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-xl-mobile-tablet}",
-              "lineHeight": "{line-height-lg-1}"
+              "lineHeight": "{line-height-lg-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1573,7 +1582,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-xl-mobile-tablet}",
-              "lineHeight": "{line-height-lg-1}"
+              "lineHeight": "{line-height-lg-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1586,7 +1596,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-lg-mobile-tablet}",
               "lineHeight": "{line-height-md-3}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1596,7 +1606,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-lg-mobile-tablet}",
-              "lineHeight": "{line-height-md-3}"
+              "lineHeight": "{line-height-md-3}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1606,7 +1617,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-lg-mobile-tablet}",
-              "lineHeight": "{line-height-md-3}"
+              "lineHeight": "{line-height-md-3}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1619,7 +1631,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-md-mobile-tablet}",
               "lineHeight": "{line-height-md-2}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1629,7 +1641,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-md-mobile-tablet}",
-              "lineHeight": "{line-height-md-2}"
+              "lineHeight": "{line-height-md-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1639,7 +1652,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-md-mobile-tablet}",
-              "lineHeight": "{line-height-md-2}"
+              "lineHeight": "{line-height-md-2}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1652,7 +1666,7 @@
               "textDecoration": "None",
               "fontSize": "{font-size.headline.headline-sm-mobile-tablet}",
               "lineHeight": "{line-height-md-1}",
-              "textCase": ""
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1662,7 +1676,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Underline",
               "fontSize": "{font-size.headline.headline-sm-mobile-tablet}",
-              "lineHeight": "{line-height-md-1}"
+              "lineHeight": "{line-height-md-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           },
@@ -1672,7 +1687,8 @@
               "fontFamily": "{font-family.headline}",
               "textDecoration": "Strikethrough",
               "fontSize": "{font-size.headline.headline-sm-mobile-tablet}",
-              "lineHeight": "{line-height-md-1}"
+              "lineHeight": "{line-height-md-1}",
+              "textCase": "{text-case.headline}"
             },
             "type": "typography"
           }
@@ -1727,5 +1743,11 @@
   "line-height-lg-2": {
     "value": "48",
     "type": "lineHeights"
+  },
+  "text-case": {
+    "headline": {
+      "value": "none",
+      "type": "textCase"
+    }
   }
 }

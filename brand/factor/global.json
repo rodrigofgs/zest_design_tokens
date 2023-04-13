@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "headline": {
+      "value": "Rational Text",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "headline": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  }
+}

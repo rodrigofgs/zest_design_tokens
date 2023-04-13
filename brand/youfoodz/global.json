@@ -1,0 +1,20 @@
+{
+  "font-family": {
+    "headline": {
+      "value": "Amsi Pro Cond",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "headline": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  },
+  "text-case": {
+    "headline": {
+      "value": "uppercase",
+      "type": "textCase"
+    }
+  }
+}

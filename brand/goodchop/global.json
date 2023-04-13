@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "headline": {
+      "value": "Cubano",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "headline": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

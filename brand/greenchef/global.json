@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "headline": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "headline": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  }
+}
