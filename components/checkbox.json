@@ -91,6 +91,12 @@
         "value": "{border.default}",
         "type": "borderRadius"
       }
+    },
+    "typography": {
+      "label": {
+        "value": "{typography.body.m.body-m-regular}",
+        "type": "typography"
+      }
     }
   }
 }
