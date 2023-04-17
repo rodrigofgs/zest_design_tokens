@@ -6,10 +6,10 @@
       "global": "enabled",
       "brand/zest/alias": "source",
       "components/button": "enabled",
-      "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled"
+      "components/spinner": "enabled",
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -23,7 +23,8 @@
       "global": "source",
       "brand/everyplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/everyplate/global": "enabled"
+      "brand/everyplate/global": "enabled",
+      "components/radio-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,7 +38,8 @@
       "global": "source",
       "brand/chefsplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/chefsplate/global": "enabled"
+      "brand/chefsplate/global": "enabled",
+      "components/radio-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +54,7 @@
       "brand/hellofresh/alias": "source",
       "components/checkbox": "enabled",
       "brand/hellofresh/global": "enabled",
-      "components/radio_button": "enabled"
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -139,7 +141,7 @@
       "components/spinner": "enabled",
       "brand/goodchop/global": "enabled",
       "brand/goodchop/alias": "source",
-      "components/radio_button": "enabled"
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -151,10 +153,10 @@
       "brand/greenchef/global": "enabled",
       "brand/greenchef/alias": "source",
       "components/button": "enabled",
-      "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled"
+      "components/spinner": "enabled",
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -166,10 +168,10 @@
       "brand/factor/alias": "source",
       "brand/factor/global": "enabled",
       "components/button": "enabled",
-      "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
-      "components/spinner": "enabled"
+      "components/spinner": "enabled",
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -179,12 +181,12 @@
     "selectedTokenSets": {
       "global": "source",
       "components/button": "enabled",
-      "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
       "brand/youfoodz/alias": "source",
-      "brand/youfoodz/global": "enabled"
+      "brand/youfoodz/global": "enabled",
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -194,12 +196,12 @@
     "selectedTokenSets": {
       "global": "source",
       "components/button": "enabled",
-      "components/radio_button": "enabled",
       "components/checkbox": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
       "brand/thepetstable/alias": "source",
-      "brand/thepetstable/global": "enabled"
+      "brand/thepetstable/global": "enabled",
+      "components/radio-button": "enabled"
     },
     "$figmaStyleReferences": {}
   }

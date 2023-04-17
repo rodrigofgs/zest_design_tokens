@@ -19,7 +19,7 @@
     "brand/youfoodz/alias",
     "brand/youfoodz/global",
     "components/button",
-    "components/radio_button",
+    "components/radio-button",
     "components/checkbox",
     "components/input",
     "components/spinner"

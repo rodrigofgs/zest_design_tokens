@@ -1,0 +1,104 @@
+{
+  "radio-button": {
+    "color": {
+      "unselected": {
+        "border": {
+          "default": {
+            "value": "{color.interactive.brand.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.interactive.brand.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.interactive.brand.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.interactive.brand.disabled}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "default": {
+            "value": "{color.transparent}",
+            "type": "color"
+          }
+        },
+        "label": {
+          "default": {
+            "value": "{color.text.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.text.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "selected": {
+        "border": {
+          "default": {
+            "value": "{color.interactive.brand.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.interactive.brand.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.interactive.brand.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.interactive.brand.disabled}",
+            "type": "color"
+          }
+        },
+        "label": {
+          "disabled": {
+            "value": "{color.text.disabled}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.text.default}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{color.interactive.brand.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.interactive.brand.hover}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.interactive.brand.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.interactive.brand.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "main": {
+        "value": "{border.default}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "checkbox": {
+    "typography": {
+      "label": {
+        "value": "{typography.body.m.body-m-regular}",
+        "type": "typography"
+      }
+    }
+  }
+}
