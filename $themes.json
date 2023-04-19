@@ -23,8 +23,7 @@
       "global": "source",
       "brand/everyplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/everyplate/global": "enabled",
-      "components/radio-button": "disabled"
+      "brand/everyplate/global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -38,8 +37,7 @@
       "global": "source",
       "brand/chefsplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/chefsplate/global": "enabled",
-      "components/radio-button": "disabled"
+      "brand/chefsplate/global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
