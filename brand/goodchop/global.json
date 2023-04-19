@@ -1,4 +1,102 @@
 {
+  "color": {
+    "GoodChop-Gold-800": {
+      "value": "#5f401d",
+      "type": "color"
+    },
+    "GoodChop-Gold-700": {
+      "value": "#8e602d",
+      "type": "color"
+    },
+    "GoodChop-Gold-600": {
+      "value": "#be803c",
+      "type": "color"
+    },
+    "GoodChop-Gold-500": {
+      "value": "#eda04b",
+      "type": "color"
+    },
+    "GoodChop-Gold-400": {
+      "value": "#f5b642",
+      "type": "color"
+    },
+    "GoodChop-Gold-300": {
+      "value": "#f9d38d",
+      "type": "color"
+    },
+    "GoodChop-Gold-200": {
+      "value": "#fce8c3",
+      "type": "color"
+    },
+    "GoodChop-Gold-100": {
+      "value": "#fef7e9",
+      "type": "color"
+    },
+    "GoodChop-Pepper-800": {
+      "value": "#4c1601",
+      "type": "color"
+    },
+    "GoodChop-Pepper-700": {
+      "value": "#712101",
+      "type": "color"
+    },
+    "GoodChop-Pepper-600": {
+      "value": "#972c02",
+      "type": "color"
+    },
+    "GoodChop-Pepper-500": {
+      "value": "#bd3702",
+      "type": "color"
+    },
+    "GoodChop-Pepper-400": {
+      "value": "#ca5f35",
+      "type": "color"
+    },
+    "GoodChop-Pepper-300": {
+      "value": "#df9e85",
+      "type": "color"
+    },
+    "GoodChop-Pepper-200": {
+      "value": "#eeccbe",
+      "type": "color"
+    },
+    "GoodChop-Pepper-100": {
+      "value": "#f9ece7",
+      "type": "color"
+    },
+    "GoodChop-Navy-800": {
+      "value": "#0a2d3b",
+      "type": "color"
+    },
+    "GoodChop-Navy-700": {
+      "value": "#0c384a",
+      "type": "color"
+    },
+    "GoodChop-Navy-600": {
+      "value": "#244c5c",
+      "type": "color"
+    },
+    "GoodChop-Navy-500": {
+      "value": "#3d606e",
+      "type": "color"
+    },
+    "GoodChop-Navy-400": {
+      "value": "#547380",
+      "type": "color"
+    },
+    "GoodChop-Navy-300": {
+      "value": "#8a9fa7",
+      "type": "color"
+    },
+    "GoodChop-Navy-200": {
+      "value": "#c1ccd1",
+      "type": "color"
+    },
+    "GoodChop-Navy-100": {
+      "value": "#e8ecee",
+      "type": "color"
+    }
+  },
   "font-family": {
     "headline": {
       "value": "Cubano",

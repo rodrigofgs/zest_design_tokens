@@ -1,4 +1,102 @@
 {
+  "color": {
+    "Youfoodz-Violet-800": {
+      "value": "#1b265b",
+      "type": "color"
+    },
+    "Youfoodz-Violet-700": {
+      "value": "#293a88",
+      "type": "color"
+    },
+    "Youfoodz-Violet-600": {
+      "value": "#364db6",
+      "type": "color"
+    },
+    "Youfoodz-Violet-500": {
+      "value": "#4460e3",
+      "type": "color"
+    },
+    "Youfoodz-Violet-400": {
+      "value": "#7784ff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-300": {
+      "value": "#a0aaff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-200": {
+      "value": "#c9ceff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-100": {
+      "value": "#e4e7ff",
+      "type": "color"
+    },
+    "Youfoodz-Plum-800": {
+      "value": "#501c26",
+      "type": "color"
+    },
+    "Youfoodz-Plum-700": {
+      "value": "#782a3a",
+      "type": "color"
+    },
+    "Youfoodz-Plum-600": {
+      "value": "#a0384d",
+      "type": "color"
+    },
+    "Youfoodz-Plum-500": {
+      "value": "#c84660",
+      "type": "color"
+    },
+    "Youfoodz-Plum-400": {
+      "value": "#d36b80",
+      "type": "color"
+    },
+    "Youfoodz-Plum-300": {
+      "value": "#de90a0",
+      "type": "color"
+    },
+    "Youfoodz-Plum-200": {
+      "value": "#e9b5bf",
+      "type": "color"
+    },
+    "Youfoodz-Plum-100": {
+      "value": "#f4dadf",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-800": {
+      "value": "#2a3f14",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-700": {
+      "value": "#3d5b1c",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-600": {
+      "value": "#557f27",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-500": {
+      "value": "#79b538",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-400": {
+      "value": "#94c460",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-300": {
+      "value": "#afd388",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-200": {
+      "value": "#d7e9c3",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-100": {
+      "value": "#ebf4e1",
+      "type": "color"
+    }
+  },
   "font-family": {
     "headline": {
       "value": "Amsi Pro Cond",

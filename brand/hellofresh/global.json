@@ -1,4 +1,38 @@
 {
+  "color": {
+    "HelloFresh-Lime-800": {
+      "value": "#035624",
+      "type": "color"
+    },
+    "HelloFresh-Lime-700": {
+      "value": "#056835",
+      "type": "color"
+    },
+    "HelloFresh-Lime-600": {
+      "value": "#067a46",
+      "type": "color"
+    },
+    "HelloFresh-Lime-500": {
+      "value": "#00a846",
+      "type": "color"
+    },
+    "HelloFresh-Lime-400": {
+      "value": "#96dc14",
+      "type": "color"
+    },
+    "HelloFresh-Lime-300": {
+      "value": "#d2f895",
+      "type": "color"
+    },
+    "HelloFresh-Lime-200": {
+      "value": "#e4fabf",
+      "type": "color"
+    },
+    "HelloFresh-Lime-100": {
+      "value": "#f6fde9",
+      "type": "color"
+    }
+  },
   "font-family": {
     "headline": {
       "value": "Agrandir Digital",
