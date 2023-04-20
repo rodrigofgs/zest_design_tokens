@@ -1,19 +1,5 @@
 [
   {
-    "id": "fb783c53420fe313c70f457d069b165d70dad51b",
-    "name": "Zest",
-    "selectedTokenSets": {
-      "global": "enabled",
-      "brand/zest/alias": "source",
-      "components/button": "enabled",
-      "components/checkbox": "enabled",
-      "components/input": "enabled",
-      "components/spinner": "enabled",
-      "components/radio-button": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
     "name": "EP",
     "selectedTokenSets": {
@@ -23,7 +9,8 @@
       "global": "source",
       "brand/everyplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/everyplate/global": "enabled"
+      "brand/everyplate/global": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,7 +24,8 @@
       "global": "source",
       "brand/chefsplate/alias": "source",
       "components/checkbox": "enabled",
-      "brand/chefsplate/global": "enabled"
+      "brand/chefsplate/global": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +40,8 @@
       "brand/hellofresh/alias": "source",
       "components/checkbox": "enabled",
       "brand/hellofresh/global": "enabled",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -139,7 +128,8 @@
       "components/spinner": "enabled",
       "brand/goodchop/global": "enabled",
       "brand/goodchop/alias": "source",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -154,7 +144,8 @@
       "components/checkbox": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -169,7 +160,8 @@
       "components/checkbox": "enabled",
       "components/input": "enabled",
       "components/spinner": "enabled",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -184,7 +176,8 @@
       "components/spinner": "enabled",
       "brand/youfoodz/alias": "source",
       "brand/youfoodz/global": "enabled",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -199,7 +192,23 @@
       "components/spinner": "enabled",
       "brand/thepetstable/alias": "source",
       "brand/thepetstable/global": "enabled",
-      "components/radio-button": "enabled"
+      "components/radio-button": "enabled",
+      "brand/zest/global": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fb783c53420fe313c70f457d069b165d70dad51b",
+    "name": "Zest",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "brand/zest/alias": "source",
+      "components/button": "enabled",
+      "components/checkbox": "enabled",
+      "components/input": "enabled",
+      "components/spinner": "enabled",
+      "components/radio-button": "enabled",
+      "brand/zest/global": "enabled"
     },
     "$figmaStyleReferences": {}
   }

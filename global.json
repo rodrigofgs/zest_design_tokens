@@ -277,38 +277,6 @@
     "Mint-100": {
       "value": "#cbf5e7",
       "type": "color"
-    },
-    "Zest-Blue-800": {
-      "value": "#001A94",
-      "type": "color"
-    },
-    "Zest-Blue-700": {
-      "value": "#0034B4",
-      "type": "color"
-    },
-    "Zest-Blue-600": {
-      "value": "#0F4CD3",
-      "type": "color"
-    },
-    "Zest-Blue-500": {
-      "value": "#3F5DD6",
-      "type": "color"
-    },
-    "Zest-Blue-400": {
-      "value": "#6279DD",
-      "type": "color"
-    },
-    "Zest-Blue-300": {
-      "value": "#8E9DE6",
-      "type": "color"
-    },
-    "Zest-Blue-200": {
-      "value": "#BBC2F0",
-      "type": "color"
-    },
-    "Zest-Blue-100": {
-      "value": "#E3E7F9",
-      "type": "color"
     }
   },
   "border-radius": {
