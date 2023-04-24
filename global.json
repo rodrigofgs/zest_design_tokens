@@ -284,15 +284,6 @@
       "value": "0",
       "type": "borderRadius"
     },
-    "border-radius-xl": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "border-radius-circle": {
-      "value": "50%",
-      "type": "borderRadius",
-      "description": "Circle button - Figma does not allow percentage"
-    },
     "border-radius-sm": {
       "value": "4",
       "type": "borderRadius"
@@ -304,6 +295,15 @@
     "border-radius-lg": {
       "value": "12",
       "type": "borderRadius"
+    },
+    "border-radius-xl": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "border-radius-circle": {
+      "value": "50%",
+      "type": "borderRadius",
+      "description": "Circle button - Figma does not allow percentage"
     },
     "border-radius-pill": {
       "value": "999",
