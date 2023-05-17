@@ -11,6 +11,10 @@
     "3": {
       "value": "3",
       "type": "borderWidth"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
     }
   },
   "color": {
@@ -277,35 +281,579 @@
     "Mint-100": {
       "value": "#cbf5e7",
       "type": "color"
+    },
+    "Youfoodz-Violet-800": {
+      "value": "#1b265b",
+      "type": "color"
+    },
+    "Youfoodz-Violet-700": {
+      "value": "#293a88",
+      "type": "color"
+    },
+    "Youfoodz-Violet-600": {
+      "value": "#364db6",
+      "type": "color"
+    },
+    "Youfoodz-Violet-500": {
+      "value": "#4460e3",
+      "type": "color"
+    },
+    "Youfoodz-Violet-400": {
+      "value": "#7784ff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-300": {
+      "value": "#a0aaff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-200": {
+      "value": "#c9ceff",
+      "type": "color"
+    },
+    "Youfoodz-Violet-100": {
+      "value": "#e4e7ff",
+      "type": "color"
+    },
+    "Youfoodz-Plum-800": {
+      "value": "#501c26",
+      "type": "color"
+    },
+    "Youfoodz-Plum-700": {
+      "value": "#782a3a",
+      "type": "color"
+    },
+    "Youfoodz-Plum-600": {
+      "value": "#a0384d",
+      "type": "color"
+    },
+    "Youfoodz-Plum-500": {
+      "value": "#c84660",
+      "type": "color"
+    },
+    "Youfoodz-Plum-400": {
+      "value": "#d36b80",
+      "type": "color"
+    },
+    "Youfoodz-Plum-300": {
+      "value": "#de90a0",
+      "type": "color"
+    },
+    "Youfoodz-Plum-200": {
+      "value": "#e9b5bf",
+      "type": "color"
+    },
+    "Youfoodz-Plum-100": {
+      "value": "#f4dadf",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-800": {
+      "value": "#2a3f14",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-700": {
+      "value": "#3d5b1c",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-600": {
+      "value": "#557f27",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-500": {
+      "value": "#79b538",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-400": {
+      "value": "#94c460",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-300": {
+      "value": "#afd388",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-200": {
+      "value": "#d7e9c3",
+      "type": "color"
+    },
+    "Youfoodz-Leafy-Green-100": {
+      "value": "#ebf4e1",
+      "type": "color"
+    },
+    "GoodChop-Gold-800": {
+      "value": "#5f401d",
+      "type": "color"
+    },
+    "GoodChop-Gold-700": {
+      "value": "#8e602d",
+      "type": "color"
+    },
+    "GoodChop-Gold-600": {
+      "value": "#be803c",
+      "type": "color"
+    },
+    "GoodChop-Gold-500": {
+      "value": "#eda04b",
+      "type": "color"
+    },
+    "GoodChop-Gold-400": {
+      "value": "#f5b642",
+      "type": "color"
+    },
+    "GoodChop-Gold-300": {
+      "value": "#f9d38d",
+      "type": "color"
+    },
+    "GoodChop-Gold-200": {
+      "value": "#fce8c3",
+      "type": "color"
+    },
+    "GoodChop-Gold-100": {
+      "value": "#fef7e9",
+      "type": "color"
+    },
+    "GoodChop-Pepper-800": {
+      "value": "#4c1601",
+      "type": "color"
+    },
+    "GoodChop-Pepper-700": {
+      "value": "#712101",
+      "type": "color"
+    },
+    "GoodChop-Pepper-600": {
+      "value": "#972c02",
+      "type": "color"
+    },
+    "GoodChop-Pepper-500": {
+      "value": "#bd3702",
+      "type": "color"
+    },
+    "GoodChop-Pepper-400": {
+      "value": "#ca5f35",
+      "type": "color"
+    },
+    "GoodChop-Pepper-300": {
+      "value": "#df9e85",
+      "type": "color"
+    },
+    "GoodChop-Pepper-200": {
+      "value": "#eeccbe",
+      "type": "color"
+    },
+    "GoodChop-Pepper-100": {
+      "value": "#f9ece7",
+      "type": "color"
+    },
+    "GoodChop-Navy-800": {
+      "value": "#0a2d3b",
+      "type": "color"
+    },
+    "GoodChop-Navy-700": {
+      "value": "#0c384a",
+      "type": "color"
+    },
+    "GoodChop-Navy-600": {
+      "value": "#244c5c",
+      "type": "color"
+    },
+    "GoodChop-Navy-500": {
+      "value": "#3d606e",
+      "type": "color"
+    },
+    "GoodChop-Navy-400": {
+      "value": "#547380",
+      "type": "color"
+    },
+    "GoodChop-Navy-300": {
+      "value": "#8a9fa7",
+      "type": "color"
+    },
+    "GoodChop-Navy-200": {
+      "value": "#c1ccd1",
+      "type": "color"
+    },
+    "GoodChop-Navy-100": {
+      "value": "#e8ecee",
+      "type": "color"
+    },
+    "Factor-Cyan-800": {
+      "value": "#08677e",
+      "type": "color"
+    },
+    "Factor-Cyan-700": {
+      "value": "#18849f",
+      "type": "color"
+    },
+    "Factor-Cyan-600": {
+      "value": "#3db2cf",
+      "type": "color"
+    },
+    "Factor-Cyan-500": {
+      "value": "#61dfff",
+      "type": "color"
+    },
+    "Factor-Cyan-400": {
+      "value": "#81e5ff",
+      "type": "color"
+    },
+    "Factor-Cyan-300": {
+      "value": "#a0ecff",
+      "type": "color"
+    },
+    "Factor-Cyan-200": {
+      "value": "#c0f2ff",
+      "type": "color"
+    },
+    "Factor-Cyan-100": {
+      "value": "#dff9ff",
+      "type": "color"
+    },
+    "Factor-Carbon-800": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Factor-Carbon-700": {
+      "value": "#141414",
+      "type": "color"
+    },
+    "Factor-Carbon-600": {
+      "value": "#3d3d3d",
+      "type": "color"
+    },
+    "Factor-Carbon-500": {
+      "value": "#a2a2a2",
+      "type": "color"
+    },
+    "Factor-Carbon-400": {
+      "value": "#bcbcba",
+      "type": "color"
+    },
+    "Factor-Carbon-300": {
+      "value": "#d7d7d7",
+      "type": "color"
+    },
+    "Factor-Carbon-200": {
+      "value": "#f1f1ea",
+      "type": "color"
+    },
+    "Factor-Carbon-100": {
+      "value": "#f9f9f3",
+      "type": "color"
+    },
+    "Factor-Forest-800": {
+      "value": "#13400f",
+      "type": "color"
+    },
+    "Factor-Forest-700": {
+      "value": "#1a5614",
+      "type": "color"
+    },
+    "Factor-Forest-600": {
+      "value": "#206b19",
+      "type": "color"
+    },
+    "Factor-Forest-500": {
+      "value": "#367a30",
+      "type": "color"
+    },
+    "Factor-Forest-400": {
+      "value": "#4b9743",
+      "type": "color"
+    },
+    "Factor-Forest-300": {
+      "value": "#75c26d",
+      "type": "color"
+    },
+    "Factor-Forest-200": {
+      "value": "#a3d69e",
+      "type": "color"
+    },
+    "Factor-Forest-100": {
+      "value": "#d1ebce",
+      "type": "color"
+    },
+    "GreenChef-Beet-800": {
+      "value": "#531b39",
+      "type": "color"
+    },
+    "GreenChef-Beet-700": {
+      "value": "#7d2856",
+      "type": "color"
+    },
+    "GreenChef-Beet-600": {
+      "value": "#a63672",
+      "type": "color"
+    },
+    "GreenChef-Beet-500": {
+      "value": "#d0438f",
+      "type": "color"
+    },
+    "GreenChef-Beet-400": {
+      "value": "#d969a5",
+      "type": "color"
+    },
+    "GreenChef-Beet-300": {
+      "value": "#e38ebc",
+      "type": "color"
+    },
+    "GreenChef-Beet-200": {
+      "value": "#ecb4d2",
+      "type": "color"
+    },
+    "GreenChef-Beet-100": {
+      "value": "#f6d9e9",
+      "type": "color"
+    },
+    "GreenChef-Forest-800": {
+      "value": "#1e361e",
+      "type": "color"
+    },
+    "GreenChef-Forest-700": {
+      "value": "#2a4e2a",
+      "type": "color"
+    },
+    "GreenChef-Forest-600": {
+      "value": "#42693d",
+      "type": "color"
+    },
+    "GreenChef-Forest-500": {
+      "value": "#46a748",
+      "type": "color"
+    },
+    "GreenChef-Forest-400": {
+      "value": "#61c15d",
+      "type": "color"
+    },
+    "GreenChef-Forest-300": {
+      "value": "#78d27a",
+      "type": "color"
+    },
+    "GreenChef-Forest-200": {
+      "value": "#b5dcb6",
+      "type": "color"
+    },
+    "GreenChef-Forest-100": {
+      "value": "#ddeadd",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-800": {
+      "value": "#893e2c",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-700": {
+      "value": "#b35139",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-600": {
+      "value": "#e56849",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-500": {
+      "value": "#f99d33",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-400": {
+      "value": "#fdba4d",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-300": {
+      "value": "#ffce7f",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-200": {
+      "value": "#fde7c6",
+      "type": "color"
+    },
+    "EveryPlate-Carrot-100": {
+      "value": "#fef2df",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-800": {
+      "value": "#094c53",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-700": {
+      "value": "#0b626a",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-600": {
+      "value": "#007785",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-500": {
+      "value": "#1297a5",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-400": {
+      "value": "#16bdd0",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-300": {
+      "value": "#5bcad2",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-200": {
+      "value": "#9ce2e2",
+      "type": "color"
+    },
+    "EveryPlate-Blueberry-100": {
+      "value": "#c8eaea",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-800": {
+      "value": "#094e55",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-700": {
+      "value": "#0b626a",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-600": {
+      "value": "#007885",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-500": {
+      "value": "#1298a6",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-400": {
+      "value": "#16becf",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-300": {
+      "value": "#5cccd3",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-200": {
+      "value": "#9ce2e2",
+      "type": "color"
+    },
+    "ChefsPlate-Blueberry-100": {
+      "value": "#c6e9e9",
+      "type": "color"
+    },
+    "ChefsPlate-Red-800": {
+      "value": "#7e0300",
+      "type": "color"
+    },
+    "ChefsPlate-Red-700": {
+      "value": "#9a0500",
+      "type": "color"
+    },
+    "ChefsPlate-Red-600": {
+      "value": "#c10500",
+      "type": "color"
+    },
+    "ChefsPlate-Red-500": {
+      "value": "#e10600",
+      "type": "color"
+    },
+    "ChefsPlate-Red-400": {
+      "value": "#e74933",
+      "type": "color"
+    },
+    "ChefsPlate-Red-300": {
+      "value": "#ed7666",
+      "type": "color"
+    },
+    "ChefsPlate-Red-200": {
+      "value": "#ecb19f",
+      "type": "color"
+    },
+    "ChefsPlate-Red-100": {
+      "value": "#fadbd1",
+      "type": "color"
+    },
+    "HelloFresh-Lime-800": {
+      "value": "#035624",
+      "type": "color"
+    },
+    "HelloFresh-Lime-700": {
+      "value": "#056835",
+      "type": "color"
+    },
+    "HelloFresh-Lime-600": {
+      "value": "#067a46",
+      "type": "color"
+    },
+    "HelloFresh-Lime-500": {
+      "value": "#00a846",
+      "type": "color"
+    },
+    "HelloFresh-Lime-400": {
+      "value": "#96dc14",
+      "type": "color"
+    },
+    "HelloFresh-Lime-300": {
+      "value": "#d2f895",
+      "type": "color"
+    },
+    "HelloFresh-Lime-200": {
+      "value": "#e4fabf",
+      "type": "color"
+    },
+    "HelloFresh-Lime-100": {
+      "value": "#f6fde9",
+      "type": "color"
+    },
+    "Zest-Blue-800": {
+      "value": "#001A94",
+      "type": "color"
+    },
+    "Zest-Blue-700": {
+      "value": "#0034B4",
+      "type": "color"
+    },
+    "Zest-Blue-600": {
+      "value": "#0F4CD3",
+      "type": "color"
+    },
+    "Zest-Blue-500": {
+      "value": "#3F5DD6",
+      "type": "color"
+    },
+    "Zest-Blue-400": {
+      "value": "#6279DD",
+      "type": "color"
+    },
+    "Zest-Blue-300": {
+      "value": "#8E9DE6",
+      "type": "color"
+    },
+    "Zest-Blue-200": {
+      "value": "#BBC2F0",
+      "type": "color"
+    },
+    "Zest-Blue-100": {
+      "value": "#E3E7F9",
+      "type": "color"
     }
   },
-  "border-radius": {
-    "border-radius-xs": {
+  "corner-radius": {
+    "corner-radius-none": {
       "value": "0",
       "type": "borderRadius"
     },
-    "border-radius-sm": {
+    "corner-radius-sm": {
       "value": "4",
       "type": "borderRadius"
     },
-    "border-radius-md": {
+    "corner-radius-md": {
       "value": "8",
       "type": "borderRadius"
     },
-    "border-radius-lg": {
+    "corner-radius-lg": {
       "value": "12",
       "type": "borderRadius"
     },
-    "border-radius-xl": {
+    "corner-radius-xl": {
       "value": "16",
       "type": "borderRadius"
     },
-    "border-radius-circle": {
+    "corner-radius-circle": {
       "value": "50%",
       "type": "borderRadius",
       "description": "Circle button - Figma does not allow percentage"
     },
-    "border-radius-pill": {
+    "corner-radius-pill": {
       "value": "999",
       "type": "borderRadius"
     }
@@ -327,7 +875,7 @@
     }
   },
   "spacing": {
-    "spacing-zero": {
+    "spacing-none": {
       "value": "0",
       "type": "spacing"
     },

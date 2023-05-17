@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "global",
     "brand/zest/alias",
-    "brand/zest/global",
     "brand/chefsplate/global",
     "brand/chefsplate/alias",
     "brand/everyplate/alias",
@@ -20,7 +19,7 @@
     "brand/youfoodz/alias",
     "brand/youfoodz/global",
     "components/button",
-    "components/radio-button",
+    "components/radio_button",
     "components/checkbox",
     "components/input",
     "components/spinner"

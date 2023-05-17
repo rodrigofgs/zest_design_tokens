@@ -105,24 +105,28 @@
     "border": {
       "default": {
         "hover": {
-          "value": "{color.Gray-600}",
+          "value": "{color.Gray-700}",
           "type": "color"
         },
         "enabled": {
-          "value": "{color.Gray-400}",
+          "value": "{color.Gray-700}",
           "type": "color"
         },
         "active": {
-          "value": "{color.semantic.brand}",
+          "value": "{color.Gray-800}",
           "type": "color"
         },
         "disabled": {
           "value": "{color.Gray-400}",
           "type": "color"
+        },
+        "default": {
+          "value": "{color.Gray-700}",
+          "type": "color"
         }
       },
       "subtle": {
-        "value": "{color.Gray-400}",
+        "value": "{color.Gray-600}",
         "type": "color"
       },
       "brand": {
@@ -169,7 +173,7 @@
   },
   "border": {
     "default": {
-      "value": "{border-radius.border-radius-xl}",
+      "value": "{corner-radius.border-radius-xl}",
       "type": "borderRadius"
     }
   }

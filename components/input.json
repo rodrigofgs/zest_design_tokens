@@ -13,18 +13,6 @@
         "disabled": {
           "value": "{color.border.default.disabled}",
           "type": "color"
-        },
-        "hover": {
-          "value": "{color.border.default.hover}",
-          "type": "color"
-        },
-        "focus": {
-          "value": "{color.border.default.active}",
-          "type": "color"
-        },
-        "read-only": {
-          "value": "{color.border.default.hover}",
-          "type": "color"
         }
       },
       "label": {
@@ -32,20 +20,8 @@
           "value": "{color.text.default}",
           "type": "color"
         },
-        "error": {
-          "value": "{color.semantic.error}",
-          "type": "color"
-        },
         "disabled": {
           "value": "{color.text.disabled}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{color.text.subtle}",
-          "type": "color"
-        },
-        "read-only": {
-          "value": "{color.text.subtle}",
           "type": "color"
         }
       },
@@ -55,12 +31,12 @@
             "value": "{color.text.default}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{color.text.disabled}",
+          "inactive": {
+            "value": "{color.text.subtle}",
             "type": "color"
           },
-          "read-only": {
-            "value": "{color.text.subtle}",
+          "disabled": {
+            "value": "{color.text.disabled}",
             "type": "color"
           }
         },
@@ -73,16 +49,8 @@
             "value": "{color.semantic.error}",
             "type": "color"
           },
-          "success": {
-            "value": "{color.semantic.success}",
-            "type": "color"
-          },
           "disabled": {
             "value": "{color.text.disabled}",
-            "type": "color"
-          },
-          "read-only": {
-            "value": "{color.text.subtle}",
             "type": "color"
           }
         },
@@ -94,33 +62,7 @@
           "disabled": {
             "value": "{color.text.disabled}",
             "type": "color"
-          },
-          "read-only": {
-            "value": "{color.text.subtle}",
-            "type": "color"
           }
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{color.text.default}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{color.text.disabled}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{color.semantic.error}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{color.semantic.success}",
-          "type": "color"
-        },
-        "read-only": {
-          "value": "{color.text.subtle}",
-          "type": "color"
         }
       }
     },

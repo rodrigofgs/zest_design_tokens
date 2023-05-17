@@ -92,13 +92,5 @@
         "type": "borderRadius"
       }
     }
-  },
-  "checkbox": {
-    "typography": {
-      "label": {
-        "value": "{typography.body.m.body-m-regular}",
-        "type": "typography"
-      }
-    }
   }
 }

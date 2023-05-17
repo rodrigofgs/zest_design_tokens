@@ -128,5 +128,11 @@
         "type": "borderRadius"
       }
     }
+  },
+  "opacity": {
+    "fgf": {
+      "value": "40%",
+      "type": "opacity"
+    }
   }
 }
