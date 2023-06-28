@@ -22,7 +22,7 @@
         },
         "background": {
           "default": {
-            "value": "{color.transparent}",
+            "value": "{color.background.transparent}",
             "type": "color"
           }
         },

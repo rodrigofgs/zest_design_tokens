@@ -59,7 +59,7 @@
       },
       "subtle-brand": {
         "default": {
-          "value": "{color.transparent}",
+          "value": "{color.background.transparent}",
           "type": "color"
         },
         "hover": {
@@ -76,9 +76,15 @@
         }
       }
     },
-    "transparent": {
-      "value": "rgba({color.White},0)",
-      "type": "color"
+    "background": {
+      "transparent": {
+        "value": "rgba(255,255,255,0)",
+        "type": "color"
+      },
+      "default": {
+        "value": "{color.White}",
+        "type": "color"
+      }
     },
     "text": {
       "default": {
@@ -134,12 +140,6 @@
         "type": "color"
       },
       "inverse": {
-        "value": "{color.White}",
-        "type": "color"
-      }
-    },
-    "background": {
-      "default": {
         "value": "{color.White}",
         "type": "color"
       }
