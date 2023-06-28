@@ -175,6 +175,18 @@
         "value": "{color.semantic.brand}",
         "type": "color"
       },
+      "brand-pressed": {
+        "value": "{color.ChefsPlate-Red-800}",
+        "type": "color"
+      },
+      "brand-hover": {
+        "value": "{color.ChefsPlate-Red-700}",
+        "type": "color"
+      },
+      "brand-disabled": {
+        "value": "{color.semantic.brand}",
+        "type": "color"
+      },
       "error": {
         "value": "{color.semantic.error}",
         "type": "color"

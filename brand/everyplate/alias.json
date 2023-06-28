@@ -175,6 +175,18 @@
         "value": "{color.semantic.brand}",
         "type": "color"
       },
+      "brand-pressed": {
+        "value": "{color.EveryPlate-Blueberry-800}",
+        "type": "color"
+      },
+      "brand-hover": {
+        "value": "{color.EveryPlate-Blueberry-700}",
+        "type": "color"
+      },
+      "brand-disabled": {
+        "value": "{color.semantic.brand}",
+        "type": "color"
+      },
       "error": {
         "value": "{color.semantic.error}",
         "type": "color"

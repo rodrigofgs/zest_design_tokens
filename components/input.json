@@ -11,7 +11,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{color.border.default-disabled}",
+          "value": "{color.border.default}",
           "type": "color"
         }
       },
