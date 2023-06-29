@@ -22,17 +22,17 @@
         },
         "background": {
           "default": {
-            "value": "{color.background.transparent}",
+            "value": "{color.band.background.transparent}",
             "type": "color"
           }
         },
         "label": {
           "default": {
-            "value": "{color.text.default}",
+            "value": "{color.defaults.text}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.text.default-disabled}",
+            "value": "{color.defaults.text-disabled}",
             "type": "color"
           }
         }
@@ -58,11 +58,11 @@
         },
         "label": {
           "disabled": {
-            "value": "{color.text.default-disabled}",
+            "value": "{color.defaults.text-disabled}",
             "type": "color"
           },
           "default": {
-            "value": "{color.text.default}",
+            "value": "{color.defaults.text}",
             "type": "color"
           }
         },

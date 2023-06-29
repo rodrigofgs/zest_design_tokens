@@ -11,38 +11,38 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{color.border.default}",
+          "value": "{color.defaults.border}",
           "type": "color"
         }
       },
       "label": {
         "default": {
-          "value": "{color.text.default}",
+          "value": "{color.defaults.text}",
           "type": "color"
         },
         "disabled": {
-          "value": "{color.text.default-disabled}",
+          "value": "{color.defaults.text-disabled}",
           "type": "color"
         }
       },
       "text": {
         "input-text": {
           "ative": {
-            "value": "{color.text.default}",
+            "value": "{color.defaults.text}",
             "type": "color"
           },
           "inactive": {
-            "value": "{color.text.subtle}",
+            "value": "{color.defaults.text-subtle}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.text.default-disabled}",
+            "value": "{color.defaults.text-disabled}",
             "type": "color"
           }
         },
         "hint": {
           "default": {
-            "value": "{color.text.default}",
+            "value": "{color.defaults.text}",
             "type": "color"
           },
           "error": {
@@ -50,17 +50,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.text.default-disabled}",
+            "value": "{color.defaults.text-disabled}",
             "type": "color"
           }
         },
         "validation": {
           "default": {
-            "value": "{color.text.subtle}",
+            "value": "{color.defaults.text-subtle}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.text.default-disabled}",
+            "value": "{color.defaults.text-disabled}",
             "type": "color"
           }
         }
