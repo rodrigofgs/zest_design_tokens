@@ -6,8 +6,9 @@
         "type": "color"
       },
       "text-disabled": {
-        "value": "rgba({color.HelloFresh-Lime-600}, 0.4)",
-        "type": "color"
+        "value": "rgba( {color.HelloFresh-Lime-600} , 0.4)",
+        "type": "color",
+        "$extensions": {}
       },
       "background": {
         "value": "{color.HelloFresh-Lime-600}",
@@ -72,7 +73,7 @@
         "type": "color"
       },
       "text-subtle": {
-        "value": "{color.Gray-700}",
+        "value": "{color.Gray-600}",
         "type": "color"
       },
       "background-transparent": {
@@ -202,7 +203,7 @@
         "type": "color"
       },
       "background-disabled": {
-        "value": "rgba({color.Cherry-600}, 40%)",
+        "value": "{color.Cherry-200}",
         "type": "color"
       },
       "background-loading": {
@@ -210,7 +211,7 @@
         "type": "color"
       },
       "background-subtle-hover": {
-        "value": "{color.semantic.error-subtle}",
+        "value": "{color.Cherry-100}",
         "type": "color"
       },
       "background-subtle-pressed": {
@@ -230,7 +231,7 @@
         "type": "color"
       },
       "border-disabled": {
-        "value": "{color.semantic.error-subtle}",
+        "value": "{color.Cherry-200}",
         "type": "color"
       },
       "icon": {

@@ -107,10 +107,6 @@
             "value": "{color.brand.icon}",
             "type": "color"
           },
-          "hover": {
-            "value": "{color.interactive.brand.hover}",
-            "type": "color"
-          },
           "pressed": {
             "value": "{color.interactive.brand.pressed}",
             "type": "color"
