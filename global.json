@@ -634,6 +634,38 @@
       "value": "#ddeadd",
       "type": "color"
     },
+    "GreenChef-Cyan-800": {
+      "value": "#08677e",
+      "type": "color"
+    },
+    "GreenChef-Cyan-700": {
+      "value": "#18849f",
+      "type": "color"
+    },
+    "GreenChef-Cyan-600": {
+      "value": "#3db2cf",
+      "type": "color"
+    },
+    "GreenChef-Cyan-500": {
+      "value": "#61dfff",
+      "type": "color"
+    },
+    "GreenChef-Cyan-400": {
+      "value": "#81e5ff",
+      "type": "color"
+    },
+    "GreenChef-Cyan-300": {
+      "value": "#a0ecff",
+      "type": "color"
+    },
+    "GreenChef-Cyan-200": {
+      "value": "#c0f2ff",
+      "type": "color"
+    },
+    "GreenChef-Cyan-100": {
+      "value": "#dff9ff",
+      "type": "color"
+    },
     "EveryPlate-Carrot-800": {
       "value": "#893e2c",
       "type": "color"
