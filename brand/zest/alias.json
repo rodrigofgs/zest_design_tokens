@@ -52,6 +52,10 @@
       "icon": {
         "value": "{color.Zest-Blue-600}",
         "type": "color"
+      },
+      "icon-dark": {
+        "value": "{color.Zest-Blue-700}",
+        "type": "color"
       }
     },
     "defaults": {

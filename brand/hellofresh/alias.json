@@ -53,6 +53,10 @@
       "icon": {
         "value": "{color.HelloFresh-Lime-600}",
         "type": "color"
+      },
+      "icon-dark": {
+        "value": "{color.HelloFresh-Lime-700}",
+        "type": "color"
       }
     },
     "defaults": {

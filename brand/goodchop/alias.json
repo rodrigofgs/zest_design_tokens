@@ -52,6 +52,10 @@
       "icon": {
         "value": "{color.GoodChop-Navy-600}",
         "type": "color"
+      },
+      "icon-dark": {
+        "value": "{color.GoodChop-Navy-700}",
+        "type": "color"
       }
     },
     "defaults": {

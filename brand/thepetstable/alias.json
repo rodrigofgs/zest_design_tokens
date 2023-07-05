@@ -52,6 +52,10 @@
       "icon": {
         "value": "{color.Youfoodz-Leafy-Green-600}",
         "type": "color"
+      },
+      "icon-dark": {
+        "value": "{color.Youfoodz-Leafy-Green-700}",
+        "type": "color"
       }
     },
     "defaults": {

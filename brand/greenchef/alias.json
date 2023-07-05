@@ -52,6 +52,10 @@
       "icon": {
         "value": "{color.GreenChef-Forest-600}",
         "type": "color"
+      },
+      "icon-dark": {
+        "value": "{color.GreenChef-Forest-700}",
+        "type": "color"
       }
     },
     "defaults": {
