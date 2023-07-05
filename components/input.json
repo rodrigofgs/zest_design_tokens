@@ -32,7 +32,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{color.defaults.text-subtle}",
+            "value": "{color.defaults.text-strong}",
             "type": "color"
           },
           "disabled": {
@@ -56,7 +56,7 @@
         },
         "validation": {
           "default": {
-            "value": "{color.defaults.text-subtle}",
+            "value": "{color.defaults.text-strong}",
             "type": "color"
           },
           "disabled": {
