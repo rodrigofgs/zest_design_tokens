@@ -13,6 +13,10 @@
         "value": "{color.Gray-700}",
         "type": "color"
       },
+      "text-inverse": {
+        "value": "{color.White}",
+        "type": "color"
+      },
       "background-transparent": {
         "value": "rgba(255,255,255,0)",
         "type": "color"
@@ -23,10 +27,6 @@
       },
       "background-light": {
         "value": "{color.Gray-200}",
-        "type": "color"
-      },
-      "text-inverse": {
-        "value": "{color.White}",
         "type": "color"
       },
       "border": {
@@ -124,7 +124,7 @@
         "type": "color"
       }
     },
-    "error": {
+    "negative": {
       "text": {
         "value": "{color.Cherry-600}",
         "type": "color"

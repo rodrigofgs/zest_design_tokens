@@ -752,8 +752,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "shared alias": "disabled"
+      "global": "enabled"
     },
     "group": "Global",
     "$figmaCollectionId": "VariableCollectionId:17781:22722",
