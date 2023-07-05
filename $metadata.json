@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "global",
+    "shared alias",
     "brand/zest/alias",
     "brand/chefsplate/alias",
     "brand/everyplate/alias",
