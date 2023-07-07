@@ -64,19 +64,19 @@
     },
     "reward": {
       "text": {
-        "value": "{color.Pink-600}",
+        "value": "{color.EveryPlate-Blueberry-600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.Pink-600}",
+        "value": "{color.EveryPlate-Blueberry-600}",
         "type": "color"
       },
       "background": {
-        "value": "{color.Pink-600}",
+        "value": "{color.EveryPlate-Blueberry-600}",
         "type": "color"
       },
       "background-light": {
-        "value": "{color.Pink-100}",
+        "value": "{color.EveryPlate-Blueberry-100}",
         "type": "color"
       }
     }
