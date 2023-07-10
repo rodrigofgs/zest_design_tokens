@@ -33,6 +33,10 @@
         "value": "{color.Gray-400}",
         "type": "color"
       },
+      "border-disabled": {
+        "value": "{color.Gray-400}",
+        "type": "color"
+      },
       "border-dark": {
         "value": "{color.Gray-700}",
         "type": "color"

@@ -857,6 +857,102 @@
     "Zest-Blue-100": {
       "value": "#E3E7F9",
       "type": "color"
+    },
+    "ThePetsTable-Gray-800": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-700": {
+      "value": "#0C0C0C",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-600": {
+      "value": "#2E2E2E",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-500": {
+      "value": "#444446",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-400": {
+      "value": "#969799",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-300": {
+      "value": "#CDCACB",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-200": {
+      "value": "#F2F2F2",
+      "type": "color"
+    },
+    "ThePetsTable-Gray-100": {
+      "value": "#F5F5F5",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-800": {
+      "value": "#032C6E",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-700": {
+      "value": "#0545AB",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-600": {
+      "value": "#114FAF",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-500": {
+      "value": "#366FBB",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-400": {
+      "value": "#73A3D0",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-300": {
+      "value": "#C9EBED",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-200": {
+      "value": "#DBF1F2",
+      "type": "color"
+    },
+    "ThePetsTable-Navy-Blue-100": {
+      "value": "#F0F9F9",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-800": {
+      "value": "#5E004C",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-700": {
+      "value": "#8E0073",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-600": {
+      "value": "#BD0099",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-500": {
+      "value": "#D44EBE",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-400": {
+      "value": "#E688DA",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-300": {
+      "value": "#F7C2F5",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-200": {
+      "value": "#FBDFFA",
+      "type": "color"
+    },
+    "ThePetsTable-Rose-100": {
+      "value": "#FDF3FD",
+      "type": "color"
     }
   },
   "corner-radius": {

@@ -10,7 +10,7 @@
         "type": "color"
       },
       "text-disabled": {
-        "value": "rgba({color.Youfoodz-Leafy-Green-600}, 0.4)",
+        "value": "rgba(#557f27, 0.4)",
         "type": "color"
       },
       "background": {
@@ -26,7 +26,7 @@
         "type": "color"
       },
       "background-disabled": {
-        "value": "rgba({color.Youfoodz-Leafy-Green-600}, 40%)",
+        "value": "rgba(#557f27, 0.4)",
         "type": "color"
       },
       "background-lightest": {
@@ -50,7 +50,7 @@
         "type": "color"
       },
       "border-disabled": {
-        "value": "{color.Youfoodz-Leafy-Green-600}",
+        "value": "rgba(#557f27, 0.4)",
         "type": "color"
       },
       "icon": {
