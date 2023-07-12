@@ -5,16 +5,16 @@
         "value": "{color.Gray-800}",
         "type": "color"
       },
+      "text-inverse": {
+        "value": "{color.White}",
+        "type": "color"
+      },
       "text-disabled": {
         "value": "{color.Gray-400}",
         "type": "color"
       },
       "text-dark": {
         "value": "{color.Gray-600}",
-        "type": "color"
-      },
-      "text-inverse": {
-        "value": "{color.White}",
         "type": "color"
       },
       "background-transparent": {
@@ -61,7 +61,7 @@
         "value": "{color.White}",
         "type": "color"
       },
-      "screen-overlay3": {
+      "screen-overlay": {
         "value": "rgba(#242424, 0.4)",
         "type": "color"
       }

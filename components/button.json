@@ -22,7 +22,7 @@
         },
         "text": {
           "default": {
-            "value": "{color.neutral.text-inverse}",
+            "value": "{color.neutral.text.inverse}",
             "type": "color"
           }
         },
