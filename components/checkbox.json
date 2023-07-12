@@ -28,11 +28,11 @@
         },
         "label": {
           "default": {
-            "value": "{color.defaults.text}",
+            "value": "{color.neutral.text}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.defaults.text-disabled}",
+            "value": "{color.neutral.text-disabled}",
             "type": "color"
           }
         }
@@ -71,16 +71,16 @@
           }
         },
         "icon": {
-          "value": "{color.defaults.icon-inverse}",
+          "value": "{color.neutral.icon-inverse}",
           "type": "color"
         },
         "label": {
           "disabled": {
-            "value": "{color.defaults.text-disabled}",
+            "value": "{color.neutral.text-disabled}",
             "type": "color"
           },
           "default": {
-            "value": "{color.defaults.text}",
+            "value": "{color.neutral.text}",
             "type": "color"
           }
         }

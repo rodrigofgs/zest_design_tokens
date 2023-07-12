@@ -11,24 +11,24 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{color.defaults.border}",
+          "value": "{color.neutral.border}",
           "type": "color"
         }
       },
       "label": {
         "default": {
-          "value": "{color.defaults.text}",
+          "value": "{color.neutral.text}",
           "type": "color"
         },
         "disabled": {
-          "value": "{color.defaults.text-disabled}",
+          "value": "{color.neutral.text-disabled}",
           "type": "color"
         }
       },
       "text": {
         "input-text": {
           "ative": {
-            "value": "{color.defaults.text}",
+            "value": "{color.neutral.text}",
             "type": "color"
           },
           "inactive": {
@@ -36,13 +36,13 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.defaults.text-disabled}",
+            "value": "{color.neutral.text-disabled}",
             "type": "color"
           }
         },
         "hint": {
           "default": {
-            "value": "{color.defaults.text}",
+            "value": "{color.neutral.text}",
             "type": "color"
           },
           "error": {
@@ -50,7 +50,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.defaults.text-disabled}",
+            "value": "{color.neutral.text-disabled}",
             "type": "color"
           }
         },
@@ -60,7 +60,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.defaults.text-disabled}",
+            "value": "{color.neutral.text-disabled}",
             "type": "color"
           }
         }
