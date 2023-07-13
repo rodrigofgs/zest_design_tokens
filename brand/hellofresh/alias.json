@@ -82,7 +82,7 @@
       }
     }
   },
-  "border": {
+  "corner-radius": {
     "default": {
       "value": "{corner-radius.corner-radius-sm}",
       "type": "borderRadius"

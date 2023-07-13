@@ -68,7 +68,7 @@
     },
     "border": {
       "main": {
-        "value": "{border.default}",
+        "value": "{corner-radius.default}",
         "type": "borderRadius"
       }
     }

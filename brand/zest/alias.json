@@ -50,7 +50,7 @@
         "type": "color"
       },
       "border-disabled": {
-        "value": "{color.Zest-Blue-600}",
+        "value": "{color.Zest-Blue-200}",
         "type": "color"
       },
       "icon": {
@@ -81,7 +81,7 @@
       }
     }
   },
-  "border": {
+  "corner-radius": {
     "default": {
       "value": "{corner-radius.corner-radius-sm}",
       "type": "borderRadius"
