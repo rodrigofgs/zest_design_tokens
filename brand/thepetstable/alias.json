@@ -83,7 +83,7 @@
   },
   "corner-radius": {
     "default": {
-      "value": "{corner-radius.corner-radius-sm}",
+      "value": "{corner-radius.corner-radius-pill}",
       "type": "borderRadius"
     }
   }

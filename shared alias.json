@@ -3,11 +3,13 @@
     "neutral": {
       "text": {
         "value": "{color.Gray-800}",
-        "type": "color"
+        "type": "color",
+        "description": "Use for default text, such as body copy, sentence case headers"
       },
       "text-inverse": {
         "value": "{color.White}",
-        "type": "color"
+        "type": "color",
+        "description": "Use for text on bold and dark backgrounds"
       },
       "text-disabled": {
         "value": "{color.Gray-400}",

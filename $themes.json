@@ -771,7 +771,7 @@
     "selectedTokenSets": {
       "global": "enabled"
     },
-    "group": "Global",
+    "group": "_Global",
     "$figmaCollectionId": "VariableCollectionId:17781:22722",
     "$figmaModeId": "17781:10",
     "$figmaVariableReferences": {
