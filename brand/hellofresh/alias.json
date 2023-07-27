@@ -87,7 +87,7 @@
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.Gray-100}",
+        "value": "{color.White}",
         "type": "color"
       }
     }
