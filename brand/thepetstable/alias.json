@@ -79,6 +79,16 @@
         "value": "{color.ThePetsTable-Rose-100}",
         "type": "color"
       }
+    },
+    "neutral": {
+      "background-page": {
+        "value": "{color.Gray-200}",
+        "type": "color"
+      },
+      "surface-default": {
+        "value": "{color.Gray-100}",
+        "type": "color"
+      }
     }
   },
   "corner-radius": {
