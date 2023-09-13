@@ -16,6 +16,7 @@
     "components/checkbox",
     "components/input",
     "components/spinner",
-    "components/radio-button"
+    "components/radio-button",
+    "components/tooltip"
   ]
 }

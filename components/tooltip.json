@@ -1,0 +1,16 @@
+{
+  "tooltip": {
+    "color": {
+      "light": {
+        "background": {
+          "value": "{color.neutral.background-default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{color.neutral.text}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
