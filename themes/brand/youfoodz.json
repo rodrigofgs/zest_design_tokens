@@ -3,97 +3,97 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.GreenChef-Forest-600}",
+          "value": "{color.Youfoodz-Leafy-Green-600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.GreenChef-Forest-800}",
+          "value": "{color.Youfoodz-Leafy-Green-800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
+          "value": "rgba(#557f27, 0.4)",
           "type": "color"
         }
       },
       "background": {
         "default": {
-          "value": "{color.GreenChef-Forest-600}",
+          "value": "{color.Youfoodz-Leafy-Green-600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.GreenChef-Forest-100}",
+          "value": "{color.Youfoodz-Leafy-Green-100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.GreenChef-Forest-200}",
+          "value": "{color.Youfoodz-Leafy-Green-200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.GreenChef-Forest-300}",
+          "value": "{color.Youfoodz-Leafy-Green-300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.GreenChef-Forest-400}",
+          "value": "{color.Youfoodz-Leafy-Green-400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.GreenChef-Forest-700}",
+          "value": "{color.Youfoodz-Leafy-Green-700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.GreenChef-Forest-800}",
+          "value": "{color.Youfoodz-Leafy-Green-800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
+          "value": "rgba(#557f27, 0.4)",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "{color.GreenChef-Forest-600}",
+          "value": "{color.Youfoodz-Leafy-Green-600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.GreenChef-Forest-700}",
+          "value": "{color.Youfoodz-Leafy-Green-700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.GreenChef-Forest-800}",
+          "value": "{color.Youfoodz-Leafy-Green-800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
+          "value": "rgba(#557f27, 0.4)",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{color.GreenChef-Forest-600}",
+          "value": "{color.Youfoodz-Leafy-Green-600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.GreenChef-Forest-700}",
+          "value": "{color.Youfoodz-Leafy-Green-700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.GreenChef-Cyan-600}",
+        "value": "{color.Pink-600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.GreenChef-Cyan-600}",
+        "value": "{color.Pink-600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.GreenChef-Cyan-600}",
+          "value": "{color.Pink-600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.GreenChef-Cyan-100}",
+          "value": "{color.Pink-100}",
           "type": "color"
         }
       }
@@ -107,12 +107,6 @@
         "value": "{color.White}",
         "type": "color"
       }
-    }
-  },
-  "corner-radius": {
-    "default": {
-      "value": "{corner-radius.corner-radius-sm}",
-      "type": "borderRadius"
     }
   }
 }

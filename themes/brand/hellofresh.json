@@ -3,116 +3,114 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.Zest-Blue-600}",
+          "value": "{color.hellofresh-lime.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Zest-Blue-800}",
+          "value": "{color.hellofresh-lime.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#0F4CD3, 0.4)",
+          "value": "rgba(#067a46, 0.4)",
           "type": "color"
         }
       },
       "background": {
         "default": {
-          "value": "{color.Zest-Blue-600}",
+          "value": "{color.hellofresh-lime.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.Zest-Blue-100}",
+          "value": "{color.hellofresh-lime.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.Zest-Blue-200}",
+          "value": "{color.hellofresh-lime.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Zest-Blue-300}",
+          "value": "{color.hellofresh-lime.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Zest-Blue-400}",
+          "value": "{color.hellofresh-lime.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.Zest-Blue-700}",
+          "value": "{color.hellofresh-lime.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Zest-Blue-800}",
+          "value": "{color.hellofresh-lime.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#0F4CD3, 0.4)",
+          "value": "rgba(#067a46, 0.4)",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "{color.Zest-Blue-600}",
+          "value": "{color.hellofresh-lime.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Zest-Blue-700}",
+          "value": "{color.hellofresh-lime.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Zest-Blue-800}",
+          "value": "{color.hellofresh-lime.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#0F4CD3, 0.4)",
+          "value": "rgba(#067a46, 0.4)",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{color.Zest-Blue-600}",
+          "value": "{color.hellofresh-lime.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Zest-Blue-700}",
+          "value": "{color.hellofresh-lime.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.Pink-600}",
+        "value": "{color.lemon.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.Pink-600}",
+        "value": "{color.lemon.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.Pink-600}",
+          "value": "{color.lemon.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Pink-100}",
+          "value": "{color.lemon.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
-    }
-  },
-  "corner-radius": {
-    "default": {
-      "value": "{corner-radius.corner-radius-sm}",
-      "type": "borderRadius"
+    },
+    "test": {
+      "value": "{color.brand.text.default}",
+      "type": "color"
     }
   }
 }
