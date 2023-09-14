@@ -2,64 +2,80 @@
   "color": {
     "brand": {
       "text": {
-        "value": "{color.Factor-Forest-600}",
-        "type": "color"
-      },
-      "text-dark": {
-        "value": "{color.Factor-Forest-800}",
-        "type": "color"
-      },
-      "text-disabled": {
-        "value": "rgba({color.Factor-Forest-600}, 0.4)",
-        "type": "color"
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
       },
       "background": {
-        "value": "{color.Factor-Forest-600}",
-        "type": "color"
-      },
-      "background-dark": {
-        "value": "{color.Factor-Forest-700}",
-        "type": "color"
-      },
-      "background-darkest": {
-        "value": "{color.Factor-Forest-800}",
-        "type": "color"
-      },
-      "background-disabled": {
-        "value": "rgba({color.Factor-Forest-600}, 40%)",
-        "type": "color"
-      },
-      "background-lightest": {
-        "value": "{color.Factor-Forest-100}",
-        "type": "color"
-      },
-      "background-light": {
-        "value": "{color.Factor-Forest-200}",
-        "type": "color"
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{color.Factor-Forest-100}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{color.Factor-Forest-200}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Factor-Forest-300}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-400}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
       },
       "border": {
-        "value": "{color.Factor-Forest-600}",
-        "type": "color"
-      },
-      "border-dark": {
-        "value": "{color.Factor-Forest-700}",
-        "type": "color"
-      },
-      "border-darkest": {
-        "value": "{color.Factor-Forest-800}",
-        "type": "color"
-      },
-      "border-disabled": {
-        "value": "{color.Factor-Forest-600}",
-        "type": "color"
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
       },
       "icon": {
-        "value": "{color.Factor-Forest-600}",
-        "type": "color"
-      },
-      "icon-dark": {
-        "value": "{color.Factor-Forest-700}",
-        "type": "color"
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        }
       }
     },
     "reward": {
@@ -72,17 +88,19 @@
         "type": "color"
       },
       "background": {
-        "value": "{color.Pink-600}",
-        "type": "color"
-      },
-      "background-light": {
-        "value": "{color.Pink-100}",
-        "type": "color"
+        "dark": {
+          "value": "{color.Pink-600}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Pink-100}",
+          "type": "color"
+        }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Factor-Carbon-200}",
+        "value": "{color.Gray-200}",
         "type": "color"
       },
       "surface-default": {

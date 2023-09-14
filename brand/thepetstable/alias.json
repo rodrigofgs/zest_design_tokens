@@ -2,64 +2,80 @@
   "color": {
     "brand": {
       "text": {
-        "value": "{color.ThePetsTable-Gray-600}",
-        "type": "color"
-      },
-      "text-dark": {
-        "value": "{color.ThePetsTable-Gray-800}",
-        "type": "color"
-      },
-      "text-disabled": {
-        "value": "rgba(#2E2E2E, 0.4)",
-        "type": "color"
+        "default": {
+          "value": "{color.ThePetsTable-Gray-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.ThePetsTable-Gray-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#2E2E2E, 0.4)",
+          "type": "color"
+        }
       },
       "background": {
-        "value": "{color.ThePetsTable-Gray-600}",
-        "type": "color"
-      },
-      "background-dark": {
-        "value": "{color.ThePetsTable-Gray-700}",
-        "type": "color"
-      },
-      "background-darkest": {
-        "value": "{color.ThePetsTable-Gray-800}",
-        "type": "color"
-      },
-      "background-disabled": {
-        "value": "rgba(#2E2E2E, 0.4)",
-        "type": "color"
-      },
-      "background-lightest": {
-        "value": "{color.ThePetsTable-Gray-100}",
-        "type": "color"
-      },
-      "background-light": {
-        "value": "{color.ThePetsTable-Gray-200}",
-        "type": "color"
+        "default": {
+          "value": "{color.ThePetsTable-Gray-600}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{color.ThePetsTable-Gray-100}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{color.ThePetsTable-Gray-200}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.ThePetsTable-Gray-300}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.ThePetsTable-Gray-400}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{color.ThePetsTable-Gray-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.ThePetsTable-Gray-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#2E2E2E, 0.4)",
+          "type": "color"
+        }
       },
       "border": {
-        "value": "{color.ThePetsTable-Gray-600}",
-        "type": "color"
-      },
-      "border-dark": {
-        "value": "{color.ThePetsTable-Gray-700}",
-        "type": "color"
-      },
-      "border-darkest": {
-        "value": "{color.ThePetsTable-Gray-800}",
-        "type": "color"
-      },
-      "border-disabled": {
-        "value": "rgba(#2E2E2E, 0.4)",
-        "type": "color"
+        "default": {
+          "value": "{color.ThePetsTable-Gray-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.ThePetsTable-Gray-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.ThePetsTable-Gray-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#2E2E2E, 0.4)",
+          "type": "color"
+        }
       },
       "icon": {
-        "value": "{color.ThePetsTable-Gray-600}",
-        "type": "color"
-      },
-      "icon-dark": {
-        "value": "{color.ThePetsTable-Gray-700}",
-        "type": "color"
+        "default": {
+          "value": "{color.ThePetsTable-Gray-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.ThePetsTable-Gray-700}",
+          "type": "color"
+        }
       }
     },
     "reward": {
@@ -72,12 +88,14 @@
         "type": "color"
       },
       "background": {
-        "value": "{color.ThePetsTable-Rose-600}",
-        "type": "color"
-      },
-      "background-light": {
-        "value": "{color.ThePetsTable-Rose-100}",
-        "type": "color"
+        "dark": {
+          "value": "{color.ThePetsTable-Rose-600}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.ThePetsTable-Rose-100}",
+          "type": "color"
+        }
       }
     },
     "neutral": {
@@ -93,7 +111,7 @@
   },
   "corner-radius": {
     "default": {
-      "value": "{corner-radius.corner-radius-pill}",
+      "value": "{corner-radius.corner-radius-sm}",
       "type": "borderRadius"
     }
   }

@@ -3,7 +3,7 @@
     "color": {
       "border": {
         "default": {
-          "value": "{color.brand.border}",
+          "value": "{color.brand.border.default}",
           "type": "color"
         },
         "inverse": {
