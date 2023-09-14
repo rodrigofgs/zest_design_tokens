@@ -3,11 +3,11 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.ThePetsTable-Gray-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ThePetsTable-Gray-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
@@ -17,31 +17,31 @@
       },
       "background": {
         "default": {
-          "value": "{color.ThePetsTable-Gray-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.ThePetsTable-Gray-100}",
+          "value": "{color.thepetstable-gray.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.ThePetsTable-Gray-200}",
+          "value": "{color.thepetstable-gray.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.ThePetsTable-Gray-300}",
+          "value": "{color.thepetstable-gray.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ThePetsTable-Gray-400}",
+          "value": "{color.thepetstable-gray.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.ThePetsTable-Gray-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.ThePetsTable-Gray-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
@@ -51,15 +51,15 @@
       },
       "border": {
         "default": {
-          "value": "{color.ThePetsTable-Gray-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ThePetsTable-Gray-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.ThePetsTable-Gray-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
@@ -69,42 +69,42 @@
       },
       "icon": {
         "default": {
-          "value": "{color.ThePetsTable-Gray-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ThePetsTable-Gray-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.ThePetsTable-Rose-600}",
+        "value": "{color.thepetstable-rose.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.ThePetsTable-Rose-600}",
+        "value": "{color.thepetstable-rose.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.ThePetsTable-Rose-600}",
+          "value": "{color.thepetstable-rose.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.ThePetsTable-Rose-100}",
+          "value": "{color.thepetstable-rose.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
     }
