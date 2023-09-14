@@ -3,6 +3,7 @@
     "global",
     "shared alias",
     "brand/zest/alias",
+    "brand/zest/components",
     "brand/chefsplate/alias",
     "brand/chefsplate/components",
     "brand/greenchef/components",
@@ -13,18 +14,17 @@
     "brand/goodchop/components",
     "brand/hellofresh/alias",
     "brand/hellofresh/components",
+    "brand/factor/components",
+    "brand/factor/alias",
+    "brand/youfoodz/components",
+    "brand/youfoodz/alias",
     "brand/thepetstable/alias",
     "brand/thepetstable/components",
-    "brand/factor/alias",
-    "brand/youfoodz/alias",
     "components/button",
     "components/radio_button",
     "components/checkbox",
     "components/input",
     "components/spinner",
-    "components/radio-button",
-    "components/tooltip",
-    "components/divider",
-    "components/badge"
+    "components/radio-button"
   ]
 }
