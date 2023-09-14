@@ -111,7 +111,8 @@
     "id": "fdcee1c01379108a5a0555cbac71d973b398c4d7",
     "name": "EP",
     "selectedTokenSets": {
-      "brand/everyplate/alias": "enabled"
+      "brand/everyplate/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -146,7 +147,8 @@
     "id": "8b27d53be957cbf949a192defaa8d898f77e5f36",
     "name": "CP",
     "selectedTokenSets": {
-      "brand/chefsplate/alias": "enabled"
+      "brand/chefsplate/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -181,7 +183,8 @@
     "id": "8086881d9388e02bf73c1111f19d4bf7315e5f04",
     "name": "GreenChef",
     "selectedTokenSets": {
-      "brand/greenchef/alias": "enabled"
+      "brand/greenchef/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -216,7 +219,8 @@
     "id": "0aedcba149d35479e15a347f4a13b79e942bf9e3",
     "name": "GoodChop",
     "selectedTokenSets": {
-      "brand/goodchop/alias": "enabled"
+      "brand/goodchop/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:446",
@@ -251,7 +255,8 @@
     "id": "171427cfd3b58d1a623bc7858f3e389f82b022db",
     "name": "ThePetsTable",
     "selectedTokenSets": {
-      "brand/thepetstable/alias": "enabled"
+      "brand/thepetstable/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:446",
@@ -286,7 +291,8 @@
     "id": "f3a16462a29ced4c08e8fa8ba96082c58400683b",
     "name": "Youfoodz",
     "selectedTokenSets": {
-      "brand/youfoodz/alias": "enabled"
+      "brand/youfoodz/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:469",
@@ -321,7 +327,8 @@
     "id": "eca116d71e3a5e4ac879649dc4ba7b659274dd36",
     "name": "Factor",
     "selectedTokenSets": {
-      "brand/factor/alias": "enabled"
+      "brand/factor/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:469",
@@ -356,7 +363,8 @@
     "id": "fb783c53420fe313c70f457d069b165d70dad51b",
     "name": "Zest",
     "selectedTokenSets": {
-      "brand/zest/alias": "enabled"
+      "brand/zest/alias": "enabled",
+      "components/tooltip": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:492",
