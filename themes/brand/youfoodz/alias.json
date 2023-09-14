@@ -1,0 +1,118 @@
+{
+  "color": {
+    "brand": {
+      "text": {
+        "default": {
+          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557f27, 0.4)",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{color.Youfoodz-Leafy-Green-100}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{color.Youfoodz-Leafy-Green-200}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Youfoodz-Leafy-Green-300}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Youfoodz-Leafy-Green-400}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557f27, 0.4)",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557f27, 0.4)",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "type": "color"
+        }
+      }
+    },
+    "reward": {
+      "text": {
+        "value": "{color.Pink-600}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{color.Pink-600}",
+        "type": "color"
+      },
+      "background": {
+        "dark": {
+          "value": "{color.Pink-600}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Pink-100}",
+          "type": "color"
+        }
+      }
+    },
+    "neutral": {
+      "background-page": {
+        "value": "{color.Gray-200}",
+        "type": "color"
+      },
+      "surface-default": {
+        "value": "{color.White}",
+        "type": "color"
+      }
+    }
+  },
+  "corner-radius": {
+    "default": {
+      "value": "{corner-radius.corner-radius-sm}",
+      "type": "borderRadius"
+    }
+  }
+}

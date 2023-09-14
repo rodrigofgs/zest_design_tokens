@@ -1,0 +1,22 @@
+{
+  "spinner": {
+    "color": {
+      "border": {
+        "default": {
+          "value": "{color.brand.border.default}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{color.neutral.border-inverse}",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "main": {
+        "value": "{corner-radius.default}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

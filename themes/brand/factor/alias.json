@@ -1,0 +1,118 @@
+{
+  "color": {
+    "brand": {
+      "text": {
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{color.Factor-Forest-100}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{color.Factor-Forest-200}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Factor-Forest-300}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-400}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{color.Factor-Forest-800}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "rgba(#557F27, 0.4)",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{color.Factor-Forest-600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.Factor-Forest-700}",
+          "type": "color"
+        }
+      }
+    },
+    "reward": {
+      "text": {
+        "value": "{color.Pink-600}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{color.Pink-600}",
+        "type": "color"
+      },
+      "background": {
+        "dark": {
+          "value": "{color.Pink-600}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.Pink-100}",
+          "type": "color"
+        }
+      }
+    },
+    "neutral": {
+      "background-page": {
+        "value": "{color.Gray-200}",
+        "type": "color"
+      },
+      "surface-default": {
+        "value": "{color.White}",
+        "type": "color"
+      }
+    }
+  },
+  "corner-radius": {
+    "default": {
+      "value": "{corner-radius.corner-radius-sm}",
+      "type": "borderRadius"
+    }
+  }
+}

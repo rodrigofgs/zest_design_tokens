@@ -1,0 +1,76 @@
+{
+  "input": {
+    "color": {
+      "border": {
+        "default": {
+          "value": "{color.border.subtle}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.semantic.error}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.neutral.border}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "default": {
+          "value": "{color.neutral.text}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.neutral.text-disabled}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "input-text": {
+          "ative": {
+            "value": "{color.neutral.text}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{color.defaults.text-strong}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.neutral.text-disabled}",
+            "type": "color"
+          }
+        },
+        "hint": {
+          "default": {
+            "value": "{color.neutral.text}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{color.semantic.error}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.neutral.text-disabled}",
+            "type": "color"
+          }
+        },
+        "validation": {
+          "default": {
+            "value": "{color.defaults.text-strong}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.neutral.text-disabled}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "main": {
+        "value": "{corner-radius.default}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
