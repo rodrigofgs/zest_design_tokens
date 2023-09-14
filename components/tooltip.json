@@ -10,6 +10,16 @@
           "value": "{color.neutral.text}",
           "type": "color"
         }
+      },
+      "dark": {
+        "background": {
+          "value": "{color.neutral.background-darkest}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{color.neutral.text-inverse}",
+          "type": "color"
+        }
       }
     }
   }

@@ -17,6 +17,7 @@
     "components/input",
     "components/spinner",
     "components/radio-button",
-    "components/tooltip"
+    "components/tooltip",
+    "components/divider"
   ]
 }
