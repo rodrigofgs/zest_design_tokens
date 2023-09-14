@@ -107,6 +107,10 @@
         "value": "{color.White}",
         "type": "color"
       }
+    },
+    "test": {
+      "value": "{color.brand.text.default}",
+      "type": "color"
     }
   },
   "corner-radius": {

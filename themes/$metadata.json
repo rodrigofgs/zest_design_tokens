@@ -20,11 +20,7 @@
     "brand/youfoodz/alias",
     "brand/thepetstable/alias",
     "brand/thepetstable/components",
-    "components/button",
-    "components/radio_button",
-    "components/checkbox",
-    "components/input",
-    "components/spinner",
-    "components/radio-button"
+    "components/divider",
+    "components/badge"
   ]
 }
