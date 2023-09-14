@@ -3,116 +3,110 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.EveryPlate-Blueberry-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.EveryPlate-Blueberry-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
+          "value": "rgba(#2E2E2E, 0.4)",
           "type": "color"
         }
       },
       "background": {
         "default": {
-          "value": "{color.EveryPlate-Blueberry-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.EveryPlate-Blueberry-100}",
+          "value": "{color.thepetstable-gray.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.EveryPlate-Blueberry-200}",
+          "value": "{color.thepetstable-gray.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.EveryPlate-Blueberry-300}",
+          "value": "{color.thepetstable-gray.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.EveryPlate-Blueberry-400}",
+          "value": "{color.thepetstable-gray.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.EveryPlate-Blueberry-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.EveryPlate-Blueberry-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
+          "value": "rgba(#2E2E2E, 0.4)",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "{color.EveryPlate-Blueberry-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.EveryPlate-Blueberry-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.EveryPlate-Blueberry-800}",
+          "value": "{color.thepetstable-gray.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
+          "value": "rgba(#2E2E2E, 0.4)",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{color.EveryPlate-Blueberry-600}",
+          "value": "{color.thepetstable-gray.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.EveryPlate-Blueberry-700}",
+          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.EveryPlate-Blueberry-600}",
+        "value": "{color.thepetstable-rose.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.EveryPlate-Blueberry-600}",
+        "value": "{color.thepetstable-rose.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.EveryPlate-Blueberry-600}",
+          "value": "{color.thepetstable-rose.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.EveryPlate-Blueberry-100}",
+          "value": "{color.thepetstable-rose.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
-    }
-  },
-  "corner-radius": {
-    "default": {
-      "value": "{corner-radius.corner-radius-sm}",
-      "type": "borderRadius"
     }
   }
 }
