@@ -18,6 +18,7 @@
     "components/spinner",
     "components/radio-button",
     "components/tooltip",
-    "components/divider"
+    "components/divider",
+    "components/badge"
   ]
 }

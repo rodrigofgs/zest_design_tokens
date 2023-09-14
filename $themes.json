@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "brand/hellofresh/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -121,7 +122,8 @@
     "selectedTokenSets": {
       "brand/everyplate/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -165,7 +167,8 @@
     "selectedTokenSets": {
       "brand/chefsplate/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -209,7 +212,8 @@
     "selectedTokenSets": {
       "brand/greenchef/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:423",
@@ -253,7 +257,8 @@
     "selectedTokenSets": {
       "brand/goodchop/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:446",
@@ -297,7 +302,8 @@
     "selectedTokenSets": {
       "brand/thepetstable/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:446",
@@ -341,7 +347,8 @@
     "selectedTokenSets": {
       "brand/youfoodz/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:469",
@@ -385,7 +392,8 @@
     "selectedTokenSets": {
       "brand/factor/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:469",
@@ -429,7 +437,8 @@
     "selectedTokenSets": {
       "brand/zest/alias": "enabled",
       "components/tooltip": "enabled",
-      "components/divider": "enabled"
+      "components/divider": "enabled",
+      "components/badge": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:651:492",
@@ -472,7 +481,8 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled"
+      "global": "enabled",
+      "components/badge": "disabled"
     },
     "group": "_Global",
     "$figmaCollectionId": "VariableCollectionId:650:163",
@@ -744,7 +754,8 @@
     "name": "Shared",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared alias": "enabled"
+      "shared alias": "enabled",
+      "components/badge": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:651:515",
     "$figmaModeId": "651:10",
