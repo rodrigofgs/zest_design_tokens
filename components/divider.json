@@ -1,9 +1,11 @@
 {
-  "tooltip": {
-    "color": {
-      "border": {
-        "value": "{color.neutral.background-light}",
-        "type": "color"
+  "component": {
+    "divider": {
+      "color": {
+        "border": {
+          "value": "{color.neutral.background-light}",
+          "type": "color"
+        }
       }
     }
   }

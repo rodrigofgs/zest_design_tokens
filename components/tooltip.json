@@ -1,24 +1,26 @@
 {
-  "tooltip": {
-    "color": {
-      "light": {
-        "background": {
-          "value": "{color.neutral.background-default}",
-          "type": "color"
+  "component": {
+    "tooltip": {
+      "color": {
+        "light": {
+          "background": {
+            "value": "{color.neutral.background-default}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{color.neutral.text}",
+            "type": "color"
+          }
         },
-        "text": {
-          "value": "{color.neutral.text}",
-          "type": "color"
-        }
-      },
-      "dark": {
-        "background": {
-          "value": "{color.neutral.background-darkest}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{color.neutral.text-inverse}",
-          "type": "color"
+        "dark": {
+          "background": {
+            "value": "{color.neutral.background-darkest}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{color.neutral.text-inverse}",
+            "type": "color"
+          }
         }
       }
     }
