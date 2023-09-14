@@ -3,11 +3,11 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.ChefsPlate-Red-600}",
+          "value": "{color.chefsplate-red.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ChefsPlate-Red-800}",
+          "value": "{color.chefsplate-red.800}",
           "type": "color"
         },
         "disabled": {
@@ -17,31 +17,31 @@
       },
       "background": {
         "default": {
-          "value": "{color.ChefsPlate-Red-600}",
+          "value": "{color.chefsplate-red.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.ChefsPlate-Red-100}",
+          "value": "{color.chefsplate-red.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.ChefsPlate-Red-200}",
+          "value": "{color.chefsplate-red.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.ChefsPlate-Red-300}",
+          "value": "{color.chefsplate-red.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ChefsPlate-Red-400}",
+          "value": "{color.chefsplate-red.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.ChefsPlate-Red-700}",
+          "value": "{color.chefsplate-red.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.ChefsPlate-Red-800}",
+          "value": "{color.chefsplate-red.800}",
           "type": "color"
         },
         "disabled": {
@@ -51,15 +51,15 @@
       },
       "border": {
         "default": {
-          "value": "{color.ChefsPlate-Red-600}",
+          "value": "{color.chefsplate-red.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ChefsPlate-Red-700}",
+          "value": "{color.chefsplate-red.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.ChefsPlate-Red-800}",
+          "value": "{color.chefsplate-red.800}",
           "type": "color"
         },
         "disabled": {
@@ -69,54 +69,48 @@
       },
       "icon": {
         "default": {
-          "value": "{color.ChefsPlate-Red-600}",
+          "value": "{color.chefsplate-red.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.ChefsPlate-Red-700}",
+          "value": "{color.chefsplate-red.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.ChefsPlate-Blueberry-600}",
+        "value": "{color.chefsplate-blueberry.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.ChefsPlate-Blueberry-600}",
+        "value": "{color.chefsplate-blueberry.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.ChefsPlate-Blueberry-600}",
+          "value": "{color.chefsplate-blueberry.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.ChefsPlate-Blueberry-100}",
+          "value": "{color.chefsplate-blueberry.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
     },
     "test": {
       "value": "{color.brand.text.default}",
       "type": "color"
-    }
-  },
-  "corner-radius": {
-    "default": {
-      "value": "{corner-radius.corner-radius-sm}",
-      "type": "borderRadius"
     }
   }
 }

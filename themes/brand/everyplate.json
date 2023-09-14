@@ -3,116 +3,110 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.everyplate-blueberry.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.everyplate-blueberry.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#557f27, 0.4)",
+          "value": "rgba(#007785, 0.4)",
           "type": "color"
         }
       },
       "background": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.everyplate-blueberry.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.Youfoodz-Leafy-Green-100}",
+          "value": "{color.everyplate-blueberry.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.Youfoodz-Leafy-Green-200}",
+          "value": "{color.everyplate-blueberry.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Youfoodz-Leafy-Green-300}",
+          "value": "{color.everyplate-blueberry.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-400}",
+          "value": "{color.everyplate-blueberry.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.everyplate-blueberry.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.everyplate-blueberry.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#557f27, 0.4)",
+          "value": "rgba(#007785, 0.4)",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.everyplate-blueberry.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.everyplate-blueberry.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.everyplate-blueberry.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#557f27, 0.4)",
+          "value": "rgba(#007785, 0.4)",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.everyplate-blueberry.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.everyplate-blueberry.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.Pink-600}",
+        "value": "{color.everyplate-blueberry.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.Pink-600}",
+        "value": "{color.everyplate-blueberry.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.Pink-600}",
+          "value": "{color.everyplate-blueberry.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Pink-100}",
+          "value": "{color.everyplate-blueberry.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
-    }
-  },
-  "corner-radius": {
-    "default": {
-      "value": "{corner-radius.corner-radius-sm}",
-      "type": "borderRadius"
     }
   }
 }
