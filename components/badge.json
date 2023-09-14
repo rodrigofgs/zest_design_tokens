@@ -1,0 +1,56 @@
+{
+  "component": {
+    "badge": {
+      "color": {
+        "positive": {
+          "background": {
+            "value": "{color.positive.background}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "background": {
+            "value": "{color.negative.background}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "background": {
+            "value": "{color.warning.background}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "background": {
+            "value": "{color.info.background}",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "background": {
+            "value": "{color.neutral.background-darkest}",
+            "type": "color"
+          }
+        },
+        "reward": {
+          "background": {
+            "value": "{color.reward.background.dark}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "{color.neutral.border-inverse}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{color.neutral.text-inverse}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{color.neutral.icon-inverse}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

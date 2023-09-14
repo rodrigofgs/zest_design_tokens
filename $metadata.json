@@ -1,12 +1,24 @@
 {
   "tokenSetOrder": [
     "global",
-    "brand/hellofresh/alias",
+    "shared alias",
+    "brand/zest/alias",
     "brand/chefsplate/alias",
     "brand/everyplate/alias",
+    "brand/goodchop/alias",
+    "brand/greenchef/alias",
+    "brand/hellofresh/alias",
+    "brand/factor/alias",
+    "brand/thepetstable/alias",
+    "brand/youfoodz/alias",
     "components/button",
-    "components/controls",
+    "components/radio_button",
+    "components/checkbox",
     "components/input",
-    "components/spinner"
+    "components/spinner",
+    "components/radio-button",
+    "components/tooltip",
+    "components/divider",
+    "components/badge"
   ]
 }
