@@ -3,11 +3,11 @@
     "brand": {
       "text": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.youfoodz-leafy-green.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.youfoodz-leafy-green.800}",
           "type": "color"
         },
         "disabled": {
@@ -17,31 +17,31 @@
       },
       "background": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.youfoodz-leafy-green.600}",
           "type": "color"
         },
         "lightest": {
-          "value": "{color.Youfoodz-Leafy-Green-100}",
+          "value": "{color.youfoodz-leafy-green.100}",
           "type": "color"
         },
         "lighter": {
-          "value": "{color.Youfoodz-Leafy-Green-200}",
+          "value": "{color.youfoodz-leafy-green.200}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Youfoodz-Leafy-Green-300}",
+          "value": "{color.youfoodz-leafy-green.300}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-400}",
+          "value": "{color.youfoodz-leafy-green.400}",
           "type": "color"
         },
         "darker": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.youfoodz-leafy-green.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.youfoodz-leafy-green.800}",
           "type": "color"
         },
         "disabled": {
@@ -51,15 +51,15 @@
       },
       "border": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.youfoodz-leafy-green.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.youfoodz-leafy-green.700}",
           "type": "color"
         },
         "darkest": {
-          "value": "{color.Youfoodz-Leafy-Green-800}",
+          "value": "{color.youfoodz-leafy-green.800}",
           "type": "color"
         },
         "disabled": {
@@ -69,42 +69,42 @@
       },
       "icon": {
         "default": {
-          "value": "{color.Youfoodz-Leafy-Green-600}",
+          "value": "{color.youfoodz-leafy-green.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{color.Youfoodz-Leafy-Green-700}",
+          "value": "{color.youfoodz-leafy-green.700}",
           "type": "color"
         }
       }
     },
     "reward": {
       "text": {
-        "value": "{color.Pink-600}",
+        "value": "{color.pink.600}",
         "type": "color"
       },
       "icon": {
-        "value": "{color.Pink-600}",
+        "value": "{color.pink.600}",
         "type": "color"
       },
       "background": {
         "dark": {
-          "value": "{color.Pink-600}",
+          "value": "{color.pink.600}",
           "type": "color"
         },
         "light": {
-          "value": "{color.Pink-100}",
+          "value": "{color.pink.100}",
           "type": "color"
         }
       }
     },
     "neutral": {
       "background-page": {
-        "value": "{color.Gray-200}",
+        "value": "{color.gray.200}",
         "type": "color"
       },
       "surface-default": {
-        "value": "{color.White}",
+        "value": "{color.white}",
         "type": "color"
       }
     }
