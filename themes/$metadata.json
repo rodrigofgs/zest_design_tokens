@@ -12,6 +12,7 @@
     "brand/youfoodz",
     "brand/thepetstable",
     "components/divider",
-    "components/badge"
+    "components/badge",
+    "components/tooltip"
   ]
 }
