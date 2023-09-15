@@ -631,14 +631,13 @@
     "name": "zest",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "shared alias": "enabled",
+      "global": "source",
+      "shared alias": "source",
       "brand/zest": "enabled",
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled"
     },
-    "group": "zest",
     "$figmaCollectionId": "VariableCollectionId:667:10069",
     "$figmaModeId": "667:128",
     "$figmaVariableReferences": {
@@ -986,7 +985,8 @@
       "spacing.spacing-xl-1": "f6d7368ebe9ca6ae38338184a849551acea12b12",
       "spacing.spacing-xl-2": "022279ae87f6d8d18cd71aea315f4c3d7a59ff67",
       "spacing.spacing-xxl": "982221e70f2dc92cad53f6a9b80404d56090c7ee"
-    }
+    },
+    "group": "zest"
   },
   {
     "id": "a9a0ecb0569cab34ee962ad97070777741444793",
