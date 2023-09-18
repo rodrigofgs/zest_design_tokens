@@ -13,6 +13,7 @@
     "brand/thepetstable",
     "components/divider",
     "components/badge",
-    "components/tooltip"
+    "components/tooltip",
+    "components/rating-button"
   ]
 }

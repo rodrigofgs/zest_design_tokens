@@ -1,0 +1,12 @@
+{
+  "component": {
+    "rating-button": {
+      "color": {
+        "selected": {
+          "value": "{color.brand.background.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
