@@ -1,0 +1,12 @@
+{
+  "component": {
+    "color": {
+      "unselected": {
+        "text": {
+          "value": "{color.neutral.text-inverse}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

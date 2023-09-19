@@ -1,0 +1,14 @@
+{
+  "component": {
+    "card": {
+      "backgournd": {
+        "value": "{color.brand.background.default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "#",
+        "type": "color"
+      }
+    }
+  }
+}
