@@ -4,9 +4,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "components/card": "disabled",
-      "components/toggle": "disabled"
+      "global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:680:981",
     "$figmaModeId": "680:0",
@@ -278,9 +276,7 @@
     "name": "Shared",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared alias": "enabled",
-      "components/card": "disabled",
-      "components/toggle": "disabled"
+      "shared alias": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:680:1241",
     "$figmaModeId": "680:1",
@@ -346,9 +342,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -480,9 +474,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:663:9988",
@@ -541,9 +533,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:663:9988",
@@ -603,9 +593,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:663:9988",
@@ -665,9 +653,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:667:10069",
     "$figmaModeId": "667:128",
@@ -726,9 +712,7 @@
       "components/badge": "enabled",
       "brand/thepetstable": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:663:10023",
     "$figmaModeId": "663:126",
@@ -787,9 +771,7 @@
       "components/badge": "enabled",
       "brand/goodchop": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:663:10023",
     "$figmaModeId": "663:127",
@@ -848,9 +830,7 @@
       "components/badge": "enabled",
       "components/tooltip": "enabled",
       "brand/youfoodz": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:667:10418",
     "$figmaModeId": "667:129",
@@ -909,9 +889,7 @@
       "components/divider": "enabled",
       "components/badge": "enabled",
       "components/tooltip": "enabled",
-      "components/rating-button": "enabled",
-      "components/card": "enabled",
-      "components/toggle": "disabled"
+      "components/rating-button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:667:10418",
     "$figmaModeId": "667:130",

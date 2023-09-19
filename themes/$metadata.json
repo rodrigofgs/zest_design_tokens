@@ -14,8 +14,6 @@
     "components/divider",
     "components/badge",
     "components/tooltip",
-    "components/rating-button",
-    "components/card",
-    "components/toggle"
+    "components/rating-button"
   ]
 }
