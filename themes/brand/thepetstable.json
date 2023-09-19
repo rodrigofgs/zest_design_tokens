@@ -49,6 +49,20 @@
           "type": "color"
         }
       },
+      "icon": {
+        "disabled": {
+          "value": "rgba(#2E2E2E, 0.4)",
+          "type": "color"
+        },
+        "default": {
+          "value": "{color.thepetstable-gray.600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.thepetstable-gray.700}",
+          "type": "color"
+        }
+      },
       "border": {
         "default": {
           "value": "{color.thepetstable-gray.600}",
@@ -64,16 +78,6 @@
         },
         "disabled": {
           "value": "rgba(#2E2E2E, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{color.thepetstable-gray.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.thepetstable-gray.700}",
           "type": "color"
         }
       }

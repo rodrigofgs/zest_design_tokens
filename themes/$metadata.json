@@ -14,6 +14,11 @@
     "components/divider",
     "components/badge",
     "components/tooltip",
-    "components/rating-button"
+    "components/rating-button",
+    "components/checkbox",
+    "components/card",
+    "components/num-input",
+    "components/radio-button",
+    "components/switch"
   ]
 }

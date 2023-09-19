@@ -49,6 +49,20 @@
           "type": "color"
         }
       },
+      "icon": {
+        "disabled": {
+          "value": "rgba(#0F4CD3, 0.4)",
+          "type": "color"
+        },
+        "default": {
+          "value": "{color.zest-blue.600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.zest-blue.700}",
+          "type": "color"
+        }
+      },
       "border": {
         "default": {
           "value": "{color.zest-blue.600}",
@@ -64,16 +78,6 @@
         },
         "disabled": {
           "value": "rgba(#0F4CD3, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{color.zest-blue.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.zest-blue.700}",
           "type": "color"
         }
       }

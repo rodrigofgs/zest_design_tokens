@@ -49,6 +49,20 @@
           "type": "color"
         }
       },
+      "icon": {
+        "disabled": {
+          "value": "rgba(#244c5c, 0.4)",
+          "type": "color"
+        },
+        "default": {
+          "value": "{color.goodchop-navy.600}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{color.goodchop-navy.700}",
+          "type": "color"
+        }
+      },
       "border": {
         "default": {
           "value": "{color.goodchop-navy.600}",
@@ -64,16 +78,6 @@
         },
         "disabled": {
           "value": "rgba(#244c5c, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{color.goodchop-navy.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.goodchop-navy.700}",
           "type": "color"
         }
       }

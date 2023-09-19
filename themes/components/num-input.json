@@ -1,0 +1,78 @@
+{
+  "component": {
+    "num-input": {
+      "color": {
+        "background": {
+          "default": {
+            "value": "{color.brand.background.lightest}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.neutral.background.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.brand.background.lighter}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.background.light}",
+            "type": "color"
+          }
+        },
+        "label": {
+          "background": {
+            "default": {
+              "value": "{color.neutral.background.default}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{color.neutral.text.default}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.brand.border.disabled}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{color.brand.icon.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.brand.icon.default}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.icon.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.brand.icon.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

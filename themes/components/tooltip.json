@@ -4,21 +4,21 @@
       "color": {
         "dark": {
           "background": {
-            "value": "{color.neutral.background-darkest}",
+            "value": "{color.neutral.background.darkest}",
             "type": "color"
           },
           "text": {
-            "value": "{color.neutral.text-inverse}",
+            "value": "{color.neutral.text.inverse}",
             "type": "color"
           }
         },
         "light": {
           "background": {
-            "value": "{color.neutral.background-default}",
+            "value": "{color.neutral.background.default}",
             "type": "color"
           },
           "text": {
-            "value": "{color.neutral.text}",
+            "value": "{color.neutral.text.default}",
             "type": "color"
           }
         }
