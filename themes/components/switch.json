@@ -19,7 +19,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "#",
+              "value": "rgba( {color.neutral.background.light}, 0.4)",
               "type": "color"
             }
           },
