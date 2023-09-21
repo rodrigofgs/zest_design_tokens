@@ -111,10 +111,6 @@
         "value": "{color.white}",
         "type": "color"
       }
-    },
-    "test": {
-      "value": "{color.brand.text.default}",
-      "type": "color"
     }
   }
 }
