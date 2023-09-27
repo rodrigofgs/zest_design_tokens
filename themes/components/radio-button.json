@@ -65,11 +65,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{color.brand.background.default}",
+              "value": "{color.brand.background.darker}",
               "type": "color"
             },
             "pressed": {
-              "value": "{color.brand.background.default}",
+              "value": "{color.brand.background.darkest}",
               "type": "color"
             },
             "disabled": {
