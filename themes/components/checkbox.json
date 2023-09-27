@@ -30,6 +30,16 @@
               "value": "{color.neutral.text.disabled}",
               "type": "color"
             }
+          },
+          "background": {
+            "hover": {
+              "value": "{color.brand.background.lightest}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{color.brand.background.lighter}",
+              "type": "color"
+            }
           }
         },
         "selected": {
