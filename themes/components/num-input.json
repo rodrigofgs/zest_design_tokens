@@ -41,14 +41,6 @@
             "value": "{color.brand.border.default}",
             "type": "color"
           },
-          "hover": {
-            "value": "{color.brand.border.default}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{color.brand.border.default}",
-            "type": "color"
-          },
           "disabled": {
             "value": "{color.brand.border.disabled}",
             "type": "color"

@@ -64,6 +64,14 @@
               "value": "{color.brand.background.default}",
               "type": "color"
             },
+            "hover": {
+              "value": "{color.brand.background.darker}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{color.brand.background.darkest}",
+              "type": "color"
+            },
             "disabled": {
               "value": "{color.brand.background.disabled}",
               "type": "color"
