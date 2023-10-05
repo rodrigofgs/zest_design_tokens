@@ -2,29 +2,29 @@
   "component": {
     "radio": {
       "color": {
-        "unselected": {
-          "border": {
-            "default": {
-              "value": "{color.brand.border.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.brand.border.dark}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "focused": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{color.brand.border.disabled}",
-              "type": "color"
-            }
+        "border": {
+          "default": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
           },
+          "hover": {
+            "value": "{color.brand.border.dark}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{color.brand.border.darkest}",
+            "type": "color"
+          },
+          "focused": {
+            "value": "{color.brand.border.darkest}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.brand.border.disabled}",
+            "type": "color"
+          }
+        },
+        "unselected": {
           "background": {
             "hover": {
               "value": "{color.brand.background.lightest}",
@@ -37,28 +37,6 @@
           }
         },
         "selected": {
-          "border": {
-            "default": {
-              "value": "{color.brand.border.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.brand.border.dark}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "focused": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{color.brand.border.disabled}",
-              "type": "color"
-            }
-          },
           "background": {
             "default": {
               "value": "{color.brand.background.default}",

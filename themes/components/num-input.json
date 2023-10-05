@@ -31,7 +31,7 @@
             "value": "{color.brand.border.default}",
             "type": "color"
           },
-          "text": {
+          "foreground": {
             "value": "{color.neutral.text.default}",
             "type": "color"
           }
@@ -46,16 +46,8 @@
             "type": "color"
           }
         },
-        "icon": {
+        "foreground": {
           "default": {
-            "value": "{color.brand.icon.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.brand.icon.default}",
-            "type": "color"
-          },
-          "pressed": {
             "value": "{color.brand.icon.default}",
             "type": "color"
           },
