@@ -1,0 +1,16 @@
+{
+  "component": {
+    "rating-button": {
+      "color": {
+        "selected": {
+          "value": "{color.lemon.400}",
+          "type": "color"
+        },
+        "unselected": {
+          "value": "{color.neutral.border.dark}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

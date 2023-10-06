@@ -1,0 +1,28 @@
+{
+  "component": {
+    "tooltip": {
+      "color": {
+        "dark": {
+          "background": {
+            "value": "{color.neutral.background.darkest}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{color.neutral.foreground.inverse}",
+            "type": "color"
+          }
+        },
+        "light": {
+          "background": {
+            "value": "{color.neutral.background.default}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{color.neutral.foreground.default}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

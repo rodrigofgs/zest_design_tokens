@@ -1,0 +1,139 @@
+{
+  "component": {
+    "button": {
+      "color": {
+        "brand": {
+          "primary": {
+            "background": {
+              "default": {
+                "description": "",
+                "value": "{color.brand.background.default}",
+                "type": "color"
+              },
+              "hover": {
+                "description": "",
+                "value": "{color.brand.background.darker}",
+                "type": "color"
+              },
+              "presssed": {
+                "description": "",
+                "value": "{color.brand.background.darkest}",
+                "type": "color"
+              },
+              "loading": {
+                "description": "",
+                "value": "{color.brand.background.darkest}",
+                "type": "color"
+              },
+              "disabled": {
+                "description": "",
+                "value": "{color.brand.background.disabled}",
+                "type": "color"
+              }
+            },
+            "border": {
+              "focused": {
+                "description": "",
+                "value": "{color.brand.border.darkest}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "default": {
+                "description": "",
+                "value": "{color.neutral.foreground.inverse}",
+                "type": "color"
+              }
+            }
+          },
+          "secondary": {
+            "border": {
+              "default": {
+                "description": "",
+                "value": "{color.brand.border.default}",
+                "type": "color"
+              },
+              "focused": {
+                "description": "",
+                "value": "{color.brand.border.darkest}",
+                "type": "color"
+              },
+              "disabled": {
+                "description": "",
+                "value": "{color.brand.border.disabled}",
+                "type": "color"
+              }
+            },
+            "background": {
+              "hover": {
+                "description": "",
+                "value": "{color.brand.background.lighter}",
+                "type": "color"
+              },
+              "presssed": {
+                "description": "",
+                "value": "{color.brand.background.light}",
+                "type": "color"
+              },
+              "loading": {
+                "description": "",
+                "value": "{color.brand.background.light}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "default": {
+                "description": "",
+                "value": "{color.brand.foreground.default}",
+                "type": "color"
+              },
+              "disabled": {
+                "description": "",
+                "value": "{color.brand.foreground.disabled}",
+                "type": "color"
+              }
+            }
+          },
+          "tertiary": {
+            "background": {
+              "hover": {
+                "description": "",
+                "value": "{color.brand.background.lighter}",
+                "type": "color"
+              },
+              "presssed": {
+                "description": "",
+                "value": "{color.brand.background.light}",
+                "type": "color"
+              },
+              "loading": {
+                "description": "",
+                "value": "{color.brand.background.light}",
+                "type": "color"
+              }
+            },
+            "border": {
+              "focused": {
+                "description": "",
+                "value": "{color.brand.border.darkest}",
+                "type": "color"
+              }
+            },
+            "foreground": {
+              "default": {
+                "description": "",
+                "value": "{color.brand.foreground.default}",
+                "type": "color"
+              },
+              "disabled": {
+                "description": "",
+                "value": "{color.brand.foreground.disabled}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "component": {
+    "card": {
+      "color": {
+        "background": {
+          "value": "{color.neutral.background.default}",
+          "type": "color"
+        },
+        "selected": {
+          "icon": {
+            "value": "{color.brand.foreground.default}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{color.brand.border.default}",
+            "type": "color"
+          }
+        },
+        "outlined": {
+          "border": {
+            "default": {
+              "value": "{color.neutral.border.default}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{color.neutral.border.disabled}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.brand.background.default}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "focused": {
+            "value": "{color.brand.border.darkest}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

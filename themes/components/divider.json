@@ -3,7 +3,7 @@
     "divider": {
       "color": {
         "border": {
-          "value": "{color.neutral.background-light}",
+          "value": "{color.neutral.background.light}",
           "type": "color"
         }
       }

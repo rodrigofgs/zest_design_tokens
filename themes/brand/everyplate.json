@@ -1,7 +1,7 @@
 {
   "color": {
     "brand": {
-      "text": {
+      "foreground": {
         "default": {
           "value": "{color.everyplate-blueberry.600}",
           "type": "color"
@@ -11,7 +11,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
+          "value": "rgba( {color.everyplate-blueberry.600} , {opacity.40})",
           "type": "color"
         }
       },
@@ -45,7 +45,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
+          "value": "rgba({color.everyplate-blueberry.600}, {opacity.40})",
           "type": "color"
         }
       },
@@ -63,27 +63,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#007785, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{color.everyplate-blueberry.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.everyplate-blueberry.700}",
+          "value": "rgba({color.everyplate-blueberry.600}, {opacity.40})",
           "type": "color"
         }
       }
     },
     "reward": {
-      "text": {
-        "value": "{color.everyplate-blueberry.600}",
-        "type": "color"
-      },
-      "icon": {
+      "foreground": {
         "value": "{color.everyplate-blueberry.600}",
         "type": "color"
       },

@@ -4,31 +4,31 @@
       "color": {
         "positive": {
           "background": {
-            "value": "{color.positive.background}",
+            "value": "{color.positive.background.default}",
             "type": "color"
           }
         },
         "negative": {
           "background": {
-            "value": "{color.negative.background}",
+            "value": "{color.negative.background.default}",
             "type": "color"
           }
         },
         "warning": {
           "background": {
-            "value": "{color.warning.background}",
+            "value": "{color.warning.background.default}",
             "type": "color"
           }
         },
         "info": {
           "background": {
-            "value": "{color.info.background}",
+            "value": "{color.info.background.default}",
             "type": "color"
           }
         },
         "neutral": {
           "background": {
-            "value": "{color.neutral.background-darkest}",
+            "value": "{color.neutral.background.darkest}",
             "type": "color"
           }
         },
@@ -39,15 +39,11 @@
           }
         },
         "border": {
-          "value": "{color.neutral.border-inverse}",
+          "value": "{color.neutral.border.inverse}",
           "type": "color"
         },
-        "text": {
-          "value": "{color.neutral.text-inverse}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{color.neutral.icon-inverse}",
+        "foreground": {
+          "value": "{color.neutral.foreground.inverse}",
           "type": "color"
         }
       }

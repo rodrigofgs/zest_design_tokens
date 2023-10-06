@@ -12,6 +12,14 @@
     "brand/youfoodz",
     "brand/thepetstable",
     "components/divider",
-    "components/badge"
+    "components/badge",
+    "components/tooltip",
+    "components/rating-button",
+    "components/checkbox",
+    "components/card",
+    "components/num-input",
+    "components/radio-button",
+    "components/switch",
+    "components/button"
   ]
 }
