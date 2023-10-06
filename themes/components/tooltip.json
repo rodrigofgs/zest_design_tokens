@@ -7,8 +7,8 @@
             "value": "{color.neutral.background.darkest}",
             "type": "color"
           },
-          "text": {
-            "value": "{color.neutral.text.inverse}",
+          "foreground": {
+            "value": "{color.neutral.foreground.inverse}",
             "type": "color"
           }
         },
@@ -17,8 +17,8 @@
             "value": "{color.neutral.background.default}",
             "type": "color"
           },
-          "text": {
-            "value": "{color.neutral.text.default}",
+          "foreground": {
+            "value": "{color.neutral.foreground.default}",
             "type": "color"
           }
         }

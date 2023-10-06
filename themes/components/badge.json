@@ -42,12 +42,8 @@
           "value": "{color.neutral.border.inverse}",
           "type": "color"
         },
-        "text": {
-          "value": "{color.neutral.text.inverse}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{color.neutral.icon.inverse}",
+        "foreground": {
+          "value": "{color.neutral.foreground.inverse}",
           "type": "color"
         }
       }

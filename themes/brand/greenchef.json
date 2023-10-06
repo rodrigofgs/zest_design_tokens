@@ -1,7 +1,7 @@
 {
   "color": {
     "brand": {
-      "text": {
+      "foreground": {
         "default": {
           "value": "{color.greenchef-forest.600}",
           "type": "color"
@@ -11,7 +11,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
+          "value": "rgba({color.greenchef-forest.600}, {opacity.40})",
           "type": "color"
         }
       },
@@ -45,21 +45,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "disabled": {
-          "value": "rgba(#42693d, 0.4)",
-          "type": "color"
-        },
-        "default": {
-          "value": "{color.greenchef-forest.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.greenchef-forest.700}",
+          "value": "rgba({color.greenchef-forest.600}, {opacity.40})",
           "type": "color"
         }
       },
@@ -77,17 +63,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#42693d, 0.4)",
+          "value": "rgba({color.greenchef-forest.600}, {opacity.40})",
           "type": "color"
         }
       }
     },
     "reward": {
-      "text": {
-        "value": "{color.greenchef-cyan.600}",
-        "type": "color"
-      },
-      "icon": {
+      "foreground": {
         "value": "{color.greenchef-cyan.600}",
         "type": "color"
       },

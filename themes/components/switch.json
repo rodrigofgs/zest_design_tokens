@@ -25,11 +25,11 @@
           },
           "label": {
             "default": {
-              "value": "{color.neutral.text.default}",
+              "value": "{color.neutral.foreground.default}",
               "type": "color"
             },
             "disabled": {
-              "value": "{color.neutral.text.disabled}",
+              "value": "{color.neutral.foreground.disabled}",
               "type": "color"
             }
           }
@@ -57,11 +57,11 @@
           },
           "label": {
             "default": {
-              "value": "{color.neutral.text.default}",
+              "value": "{color.neutral.foreground.default}",
               "type": "color"
             },
             "disabled": {
-              "value": "{color.neutral.text.disabled}",
+              "value": "{color.neutral.foreground.disabled}",
               "type": "color"
             }
           }

@@ -8,7 +8,7 @@
         },
         "selected": {
           "icon": {
-            "value": "{color.brand.icon.default}",
+            "value": "{color.brand.foreground.default}",
             "type": "color"
           },
           "border": {

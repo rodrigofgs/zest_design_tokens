@@ -1,7 +1,7 @@
 {
   "color": {
     "brand": {
-      "text": {
+      "foreground": {
         "default": {
           "value": "{color.youfoodz-leafy-green.600}",
           "type": "color"
@@ -11,7 +11,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba(#557f27, 0.4)",
+          "value": "rgba({color.youfoodz-leafy-green.600},{opacity.40})",
           "type": "color"
         }
       },
@@ -45,21 +45,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba({color.youfoodz-leafy-green.600}, 0.4)",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "disabled": {
-          "value": "rgba({color.youfoodz-leafy-green.600}, 0.4)",
-          "type": "color"
-        },
-        "default": {
-          "value": "{color.youfoodz-leafy-green.600}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.youfoodz-leafy-green.700}",
+          "value": "rgba({color.youfoodz-leafy-green.600},{opacity.40})",
           "type": "color"
         }
       },
@@ -77,17 +63,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba({color.youfoodz-leafy-green.600}, 0.4)",
+          "value": "rgba({color.youfoodz-leafy-green.600},{opacity.40})",
           "type": "color"
         }
       }
     },
     "reward": {
-      "text": {
-        "value": "{color.pink.600}",
-        "type": "color"
-      },
-      "icon": {
+      "foreground": {
         "value": "{color.pink.600}",
         "type": "color"
       },

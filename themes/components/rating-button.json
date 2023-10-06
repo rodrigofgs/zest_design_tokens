@@ -3,7 +3,7 @@
     "rating-button": {
       "color": {
         "selected": {
-          "value": "{color.lemon.600}",
+          "value": "{color.lemon.400}",
           "type": "color"
         },
         "unselected": {

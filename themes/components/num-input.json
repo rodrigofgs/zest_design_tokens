@@ -32,7 +32,7 @@
             "type": "color"
           },
           "foreground": {
-            "value": "{color.neutral.text.default}",
+            "value": "{color.neutral.foreground.default}",
             "type": "color"
           }
         },
@@ -48,11 +48,11 @@
         },
         "foreground": {
           "default": {
-            "value": "{color.brand.icon.default}",
+            "value": "{color.brand.foreground.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.brand.icon.disabled}",
+            "value": "{color.brand.foreground.default}",
             "type": "color"
           }
         }

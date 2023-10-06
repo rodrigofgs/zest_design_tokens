@@ -37,28 +37,6 @@
           }
         },
         "selected": {
-          "border": {
-            "default": {
-              "value": "{color.brand.border.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{color.brand.border.dark}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "focused": {
-              "value": "{color.brand.border.darkest}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{color.brand.border.disabled}",
-              "type": "color"
-            }
-          },
           "background": {
             "default": {
               "value": "{color.brand.background.default}",
@@ -78,17 +56,17 @@
             }
           },
           "icon": {
-            "value": "{color.neutral.icon.inverse}",
+            "value": "{color.neutral.foreground.inverse}",
             "type": "color"
           }
         },
         "label": {
           "default": {
-            "value": "{color.neutral.text.default}",
+            "value": "{color.neutral.foreground.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{color.neutral.text.disabled}",
+            "value": "{color.neutral.foreground.disabled}",
             "type": "color"
           }
         }

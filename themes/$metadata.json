@@ -19,6 +19,7 @@
     "components/card",
     "components/num-input",
     "components/radio-button",
-    "components/switch"
+    "components/switch",
+    "components/button"
   ]
 }
