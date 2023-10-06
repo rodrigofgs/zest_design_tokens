@@ -1,6 +1,6 @@
 {
   "component": {
-    "radio": {
+    "radio-button": {
       "color": {
         "border": {
           "default": {
