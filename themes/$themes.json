@@ -4,8 +4,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "shared-alias": "disabled"
+      "global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:1740",
     "$figmaModeId": "25169:0",
