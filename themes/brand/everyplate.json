@@ -11,7 +11,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba( {color.everyplate-blueberry.600} , {opacity.40})",
+          "value": "rgba({color.everyplate-blueberry.600}, {opacity.40})",
           "type": "color"
         }
       },
