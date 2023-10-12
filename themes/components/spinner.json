@@ -1,0 +1,16 @@
+{
+  "component": {
+    "spinner": {
+      "color": {
+        "brand": {
+          "value": "{color.brand.foreground.default}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{color.neutral.border.inverse}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
