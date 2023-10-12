@@ -20,6 +20,7 @@
     "components/num-input",
     "components/radio-button",
     "components/switch",
-    "components/button"
+    "components/button",
+    "components/spinner"
   ]
 }
