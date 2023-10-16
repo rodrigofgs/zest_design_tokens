@@ -1,6 +1,6 @@
 {
   "component": {
-    "num-input": {
+    "num-stepper": {
       "color": {
         "background": {
           "default": {

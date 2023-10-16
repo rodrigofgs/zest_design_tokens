@@ -341,10 +341,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.main.background.default": "S:e579de477d2c8ae4e53bd572f1a70d2513afbeaf,",
@@ -538,10 +538,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:25169:2049",
@@ -663,10 +663,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:25169:2049",
@@ -788,10 +788,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:25169:2049",
@@ -914,10 +914,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2158",
     "$figmaModeId": "25169:6",
@@ -1039,10 +1039,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2266",
     "$figmaModeId": "25169:7",
@@ -1164,10 +1164,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2266",
     "$figmaModeId": "25169:8",
@@ -1289,10 +1289,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2374",
     "$figmaModeId": "25169:9",
@@ -1414,10 +1414,10 @@
       "components/rating-button": "enabled",
       "components/checkbox": "enabled",
       "components/card": "enabled",
-      "components/num-input": "enabled",
       "components/radio-button": "enabled",
       "components/switch": "enabled",
-      "shared-alias": "source"
+      "shared-alias": "source",
+      "components/num-stepper": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2374",
     "$figmaModeId": "25169:10",
