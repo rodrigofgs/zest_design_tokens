@@ -17,7 +17,7 @@
     "components/rating-button",
     "components/checkbox",
     "components/card",
-    "components/num-stepper",
+    "components/number-stepper",
     "components/radio-button",
     "components/switch",
     "components/button",
