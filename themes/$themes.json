@@ -4,8 +4,7 @@
     "name": "Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "components/number-stepper": "disabled"
+      "global": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:1740",
     "$figmaModeId": "25169:0",
@@ -277,8 +276,7 @@
     "name": "Shared",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared-alias": "enabled",
-      "components/number-stepper": "disabled"
+      "shared-alias": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:25169:2000",
     "$figmaModeId": "25169:1",
