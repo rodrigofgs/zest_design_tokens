@@ -23,7 +23,7 @@
       },
       "background": {
         "transparent": {
-          "value": "rgba(255,255,255,0)",
+          "value": "rgba({color.white} ,{opacity.0})",
           "type": "color"
         },
         "default": {
@@ -74,7 +74,7 @@
         }
       },
       "screen-overlay": {
-        "value": "rgba(#242424, 0.4)",
+        "value": "rgba( {color.gray.800} , {opacity.40})",
         "type": "color"
       }
     },
