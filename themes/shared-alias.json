@@ -74,7 +74,7 @@
         }
       },
       "screen-overlay": {
-        "value": "rgba({color.black} , {opacity.40})",
+        "value": "rgba( {color.gray.800} , {opacity.40})",
         "type": "color"
       }
     },
