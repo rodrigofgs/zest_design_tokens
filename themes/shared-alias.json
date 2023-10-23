@@ -127,7 +127,7 @@
       },
       "background": {
         "default": {
-          "value": "{color.blue.600}",
+          "value": "{color.blue.800}",
           "type": "color"
         },
         "light": {
