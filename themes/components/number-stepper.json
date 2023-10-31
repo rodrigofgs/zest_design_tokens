@@ -41,6 +41,10 @@
             "value": "{color.brand.border.default}",
             "type": "color"
           },
+          "focused": {
+            "value": "{color.brand.border.darkest}",
+            "type": "color"
+          },
           "disabled": {
             "value": "{color.brand.border.disabled}",
             "type": "color"
@@ -52,7 +56,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.brand.foreground.default}",
+            "value": "{color.brand.foreground.disabled}",
             "type": "color"
           }
         }
